@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: post-digital
 title: The Endless Labyrinth / El laberinto infinito /  O labirinto infinito
-tags: [digital collection]
+tags: [digital]
+categories: [digital]
 
 ---
 
@@ -15,6 +16,8 @@ Through these works, we grapple with the poetics of the infinite, its fascinatin
 
 Read, read, read before the computer breaks down, before the library closes.
 
+---
+
 [ES] En esta sección nos adentramos en el infinito.
 
 Las obras recogidas aquí son objetos en una fuga sin fin, manifestando la tensión existente en nuestra capacidad humana para comprender lo que es espacial, conceptual o cronológicamente posible.
@@ -24,6 +27,8 @@ Al igual que ocurría con el maravilloso Aleph imaginado por Borges, capaz de re
 Estas obras nos enfrentan a la poética del infinito, a sus fascinantes mecanismos retóricos y a los mundos hipotéticos que nos invitan a visitar, gracias a su naturaleza técnicamente y humanamente imposible.
 
 Lean, lean, lean antes de que las computadoras se rompan, antes de que la biblioteca cierre sus puertas.
+
+---
 
 [PT] Nesta secção entramos pelo infinito.
 
@@ -35,6 +40,11 @@ Graças a estas obras enfrentamos a poética do infinito, os seus fascinantes me
 
 Leiam, leiam, leiam antes que os computadores se avariem, antes que a biblioteca feche as suas portas.
 
-![The Aleph: Infinite Wonder / Infinite Pity](/assets/img/AlephHirmes.jpg "David Hirmes, *The Aleph: Infinite Wonder / Infinite Pity*"")
+![The Aleph: Infinite Wonder / Infinite Pity](/assets/img/AlephHirmes.jpg "David Hirmes, *The Aleph: Infinite Wonder / Infinite Pity*")
+<center>David Hirmes, <em>The Aleph: Infinite Wonder / Infinite Pity</em></center>
 <br/>
-<center>David Hirmes, The Aleph: Infinite Wonder / Infinite Pity</center>
+![Globebop](/assets/img/GlobeBop.jpg "Jim Andrews, *Globebop*")
+<center>Jim Andrews, <em>Globebop</em></center>
+<br/>
+![Victory_Garden](/assets/img/Victory_Garden.jpg "Stuart Moulthrop, *Victory Garden*")
+<center>Stuart Moulthrop, <em>Victory Garden</em></center>
