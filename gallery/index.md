@@ -5,7 +5,7 @@ title: "On-Site Gallery"
 tags: [images]
 
 ---
-[Digital Collection Gallery](http://nolegacyexhibit.github.io/gallery/digitalgallery)
+[Digital Collection Gallery](http://nolegacyexhibit.github.io/gallery/digitalgallery)  			[Print Collection Gallery](http://nolegacyexhibit.github.io/gallery/printgallery) 
 
 <h2>Gallery</h2>
 
