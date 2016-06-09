@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-gallery
 title: "Print Collection Gallery"
 
 tags: [images]
