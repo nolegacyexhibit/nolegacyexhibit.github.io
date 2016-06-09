@@ -1,26 +1,10 @@
 ---
 layout: post
-title: "On-Site Gallery"
+title: "Digital Collection Gallery"
 
 tags: [images]
 
 ---
-
-<h2>Gallery</h2>
-
-<figure class="half">
-	<img src="/assets/img/gallery/Gallery_9526.jpg">
-	<img src="/assets/img/gallery/Gallery_9535.jpg">
-</figure>
-<figure class="half">
-	<img src="/assets/img/gallery/Gallery_9417.jpg">
-	<img src="/assets/img/gallery/Gallery_9521.jpg">
-</figure>
-<!-- <figure class="half">
-	<img src="/assets/img/gallery/Gallery_acknowledgements.png">
-	<img src="/assets/img/gallery/Gallery_floorplan.png">
-</figure> -->
-<br/>
 
 <h2>Digital Collection</h2>
 <figure class="half">
