@@ -1,6 +1,6 @@
 ---
-layout: post-list
+layout: post-list-digital
 title: Digital Collection
-tags: [digital collection]
+tags: [digital]
 
 ---
