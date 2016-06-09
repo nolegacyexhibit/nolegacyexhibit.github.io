@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-gallery
 title: "Digital Collection Gallery"
 
 tags: [images]
