@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: post-print
 title: Instructions for reading / Instrucciones para leer / Instruções para ler
-tags: [print collection]
-
+tags: [print]
+categories: [print]
 ---
 
 [EN] In different historical moments and across the world, game-playing and alternative modes of reading can be found in prose and poetry. This selection includes works by Argentine writer Julio Cortázar such as Hopscotch and Last Round as well as the lengthy accordion-fold poem Blanco by Mexican Octavio Paz—referencing Peruvian Carlos Oquendo de Amat’s poetry collection “Cinco metros de poemas (1927).”

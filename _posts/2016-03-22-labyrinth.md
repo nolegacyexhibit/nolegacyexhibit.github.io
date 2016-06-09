@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: post-print
 title: The endless labyrinth / El laberinto infinito / O labirinto infinito
-tags: [print collection]
-
+tags: [print]
+categories: [print]
 ---
 
 [EN] The works of Jorge Luis Borges presented here are short texts about the infinite. His stories enact the existing tension in our human capacity to comprehend what is  spatially, chronologically, or conceptually possible. “The Garden of Forking Paths” and “The Aleph” were first published in Victoria Ocampo’s cultural magazine Sur in the 1940s.

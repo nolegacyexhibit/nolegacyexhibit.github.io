@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: post-print
 title: Spelling out movement / Deletrear el movimiento / Soletrando o movimento
-tags: [print collection]
-
+tags: [print]
+categories: [print]
 ---
 
 [EN] The works gathered here use graphemes as pictorial material; they experiment with typography to recreate movement, image, and signs. Letters and words are comprised of  visual strokes. Texts shown include 19th-century visual or shape poetry by French poet Stéphane Mallarmé, F.T. Marinetti and the 20th-century Italian futurists, and key creacionismo works by Chilean avant-garde poet Vicente Huidobro, among others.
