@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "On-Site Gallery"
 
 tags: [images]
