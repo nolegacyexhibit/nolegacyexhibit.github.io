@@ -3,11 +3,17 @@ layout: post-digital
 title: The folds of time / Los pliegues del tiempo / As dobras do tempo
 tags: [digital]
 categories: [digital]
-
+description: In this section there is no past, present, or future. / En esta sección no hay ni pasado ni presente ni futuro. / Nesta secção não há nem passado, nem presente, nem futuro.
 
 ---
 
-**[EN]** In this section there is no past, present, or future.
+<h4><a href="#EN">[EN] In this section there is no past, present, or future.</a></h4>
+<h4><a href="#ES">[ES] En esta sección no hay ni pasado ni presente ni futuro.</a></h4>
+<h4><a href="#PT">[PT] Nesta secção não há nem passado, nem presente, nem futuro.</a></h4>
+
+---
+
+<a id="EN"/>**[EN]** In this section there is no past, present, or future.<
 
 The works gathered here fuse temporalities. Time moves in circles, in parallel or back and forth in them. These works question causality and sequentiality and reveal new connections among events and objects.
 
@@ -19,7 +25,7 @@ Start at the end, or in the middle. Start more than one time.
 
 ---
 
-**[ES]** En esta sección no hay ni pasado ni presente ni futuro.
+<a id="ES"/>**[ES]** En esta sección no hay ni pasado ni presente ni futuro.
 
 Distintas temporalidades se funden en las obras aquí recogidas. El tiempo se mueve en círculos, de manera paralela o de atrás hacia delante. Estas obras ponen en cuestionamiento las nociones de causalidad y secuencialidad a la par que revelan nuevas conexiones entre eventos y objetos.
 
@@ -31,7 +37,7 @@ Comiencen a leer por el final o por la mitad del relato. Vuelvan a empezar.
 
 ---
 
-**[PT]** Nesta secção não há nem passado, nem presente, nem futuro.
+<a id="PT"/>**[PT]** Nesta secção não há nem passado, nem presente, nem futuro.
 
 Nestas obras fundem­se diferentes temporalidades. O tempo move­se em círculos, em paralelo ou de trás para a frente. As peças apresentadas questionam as noções de causalidade e de sequencialidade ao mesmo tempo que revelam novas ligações entre eventos e objetos.
 
