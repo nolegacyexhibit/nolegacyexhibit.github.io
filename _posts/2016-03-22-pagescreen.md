@@ -25,6 +25,16 @@ Conversely, they showcase the crucial space that print codexes occupy in the dig
 
 Go from a computer to the book and back again.
 
+**Works:**
+
+
+- *Between Page and Screen*. Amaranth Borsuk and Brad Bouse. 2012
+- *O Livro depois do Livro / The Book After the Book*. Giselle Beiguelman. 1999
+- *El 27/ The 27th*. Eugenio Tiselli. 2014
+- *Blanco* Octavio Paz. Ed. Conaculta. )1966) 2012
+- *Crónica de Viaje*. Jorge Carrión. Ed. Aristas Martínez, 2014
+
+
 ---
 
 <a id="ES"/>**[ES]** En esta sección el código se imprime y la página se vuelve digital.
@@ -36,6 +46,15 @@ Las obras aquí incluidas señalan la relación no­lineal entre la imprenta y l
 Todas estas piezas desafían el discurso cada vez más generalizado acerca de la muerte del libro, a la par que defienden el lugar del códice impreso dentro del mundo digital.
 
 Vayan de la computadora al libro y vuelvan a empezar.
+
+**Obras:**
+
+
+- *Between Page and Screen*. Amaranth Borsuk and Brad Bouse. 2012
+- *O Livro depois do Livro / The Book After the Book*. Giselle Beiguelman. 1999
+- *El 27/ The 27th*. Eugenio Tiselli. 2014
+- *Blanco* Octavio Paz. Ed. Conaculta. )1966) 2012
+- *Crónica de Viaje*. Jorge Carrión. Ed. Aristas Martínez, 2014
 
 ---
 
@@ -50,6 +69,15 @@ Todas estas peças, ao defenderem o lugar do códex impresso no mundo digital,
 desafiam o discurso cada vez mais generalizado sobre a morte do livro.
 
 Vá do computador ao livro. Recomece.
+
+**Obras:**
+
+
+- *Between Page and Screen*. Amaranth Borsuk and Brad Bouse. 2012
+- *O Livro depois do Livro / The Book After the Book*. Giselle Beiguelman. 1999
+- *El 27/ The 27th*. Eugenio Tiselli. 2014
+- *Blanco* Octavio Paz. Ed. Conaculta. )1966) 2012
+- *Crónica de Viaje*. Jorge Carrión. Ed. Aristas Martínez, 2014
 
 ![Between Page and Screen](/assets/img/Borsuk.jpg "Amaranth Borsuk and Brad Bouse, Between Page and Screen")
 <center>Amaranth Borsuk and Brad Bouse, <em>Between Page and Screen</em> (2012)</center>
