@@ -13,7 +13,8 @@ description: In this section code is printed and pages are digital. / En esta se
 <br/>
 <h2><a href="#PT"><b>[PT]</b> Nesta secção o código imprime­se e a página devém digital.</a></h2>
 
-<br/>
+--- 
+
 ![Between Page and Screen](/assets/img/Borsuk.jpg "Amaranth Borsuk and Brad Bouse, Between Page and Screen")
 <center>Amaranth Borsuk and Brad Bouse, <em>Between Page and Screen</em> (2012)</center>
 <br/>
