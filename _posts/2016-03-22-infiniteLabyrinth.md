@@ -6,7 +6,7 @@ categories: [digital]
 
 ---
 
-###[EN] 
+**[EN]** 
 
 In this section we come into contact with the infinite.
 
@@ -20,7 +20,7 @@ Read, read, read before the computer breaks down, before the library closes.
 
 ---
 
-###[ES] 
+**[ES]** 
 
 En esta sección nos adentramos en el infinito.
 
@@ -34,7 +34,7 @@ Lean, lean, lean antes de que las computadoras se rompan, antes de que la biblio
 
 ---
 
-###[PT] 
+**[PT]**
 
 Nesta secção entramos pelo infinito.
 
