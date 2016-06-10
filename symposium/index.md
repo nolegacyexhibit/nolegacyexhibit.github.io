@@ -27,7 +27,7 @@ Readings by digital poet Amaranth Borsuk and digital writer Doménico Chiappe
 
 ~ Talks and readings may be in Spanish or English ~
 
-<iframe width="560" height="315" src="//www.youtube.com/watch?v=p5nyrspRHsY" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/p5nyrspRHsY" frameborder="0"> </iframe>
 
 <h4>Speakers' bios</h4>
 
