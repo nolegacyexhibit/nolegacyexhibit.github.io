@@ -15,8 +15,8 @@ tags: [images]
 
 <figure class="half">
 ::before
-	<a class="image-popup"><img src="/assets/img/gallery/Gallery_9526.jpg"></a>
-	<a class="image-popup"><img src="/assets/img/gallery/Gallery_9535.jpg"></a>
+	<a class="image-popup" href="/assets/img/gallery/Gallery_9526.jpg"><img src="/assets/img/gallery/Gallery_9526.jpg"></a>
+	<a class="image-popup" href="/assets/img/gallery/Gallery_9535.jpg"><img src="/assets/img/gallery/Gallery_9535.jpg"></a>
 ::after
 </figure>
 <figure class="half">
