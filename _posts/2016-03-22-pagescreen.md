@@ -3,6 +3,7 @@ layout: post-digital
 title: Page-­Screen-­Page / Página-­pantalla­-página / Página­-tela-­página
 tags: [digital]
 categories: [digital]
+description: In this section code is printed and pages are digital. / En esta sección el código se imprime y la página se vuelve digital. / Nesta secção o código imprime­se e a página devém digital.
 
 ---
 
