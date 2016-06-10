@@ -9,7 +9,7 @@ description: In this section we come into contact with the infinite. /
 
 <h4><a href="#EN">[EN] In this section we come into contact with the infinite.</a></h4>
 <h4><a href="#ES">[ES] En esta sección nos adentramos en el infinito.</a></h4>
-<h4><a href="#PT">[PT]** Nesta secção entramos pelo infinito.</a></h4>
+<h4><a href="#PT">[PT] Nesta secção entramos pelo infinito.</a></h4>
 
 ---
 
