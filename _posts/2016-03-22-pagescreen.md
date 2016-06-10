@@ -7,11 +7,11 @@ description: In this section code is printed and pages are digital. / En esta se
 
 ---
 
-<h2><a href="#EN"><b>[EN]</b> In this section code is printed and pages are digital.</a></h2>
+<h3><a href="#EN"><b>[EN]</b> In this section code is printed and pages are digital.</a></h3>
 <br/>
-<h2><a href="#ES"><b>[ES]</b> En esta sección el código se imprime y la página se vuelve digital.</a></h2>
+<h3><a href="#ES"><b>[ES]</b> En esta sección el código se imprime y la página se vuelve digital.</a></h3>
 <br/>
-<h2><a href="#PT"><b>[PT]</b> Nesta secção o código imprime­se e a página devém digital.</a></h2>
+<h3><a href="#PT"><b>[PT]</b> Nesta secção o código imprime­se e a página devém digital.</a></h3>
 
 --- 
 
