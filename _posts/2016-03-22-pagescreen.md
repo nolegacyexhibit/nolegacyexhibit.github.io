@@ -13,6 +13,19 @@ description: In this section code is printed and pages are digital. / En esta se
 <br/>
 <a href="#PT"><b>[PT]</b> Nesta secção o código imprime­se e a página devém digital.</a>
 
+<br/>
+![Between Page and Screen](/assets/img/Borsuk.jpg "Amaranth Borsuk and Brad Bouse, Between Page and Screen")
+<center>Amaranth Borsuk and Brad Bouse, <em>Between Page and Screen</em> (2012)</center>
+<br/>
+
+![The 27th/El 27](/assets/img/27.jpg "Eugenio Tiselli, The 27th/El 27")
+<center>Eugenio Tiselli, <em>The 27th/El 27</em> (2014)</center>
+
+<br/>
+![Blanco](/assets/img/blanco.jpg "Octavio Paz, Blanco")
+<center>Octavio Paz, <em>Blanco</em> (1966/2012)</center>
+
+---
 
 <a id="EN"/>**[EN]** In this section code is printed and pages are digital.
 
@@ -52,14 +65,4 @@ desafiam o discurso cada vez mais generalizado sobre a morte do livro.
 
 Vá do computador ao livro. Recomece.
 
-<br/>
-![Between Page and Screen](/assets/img/Borsuk.jpg "Amaranth Borsuk and Brad Bouse, Between Page and Screen")
-<center>Amaranth Borsuk and Brad Bouse, <em>Between Page and Screen</em> (2012)</center>
-<br/>
 
-![The 27th/El 27](/assets/img/27.jpg "Eugenio Tiselli, The 27th/El 27")
-<center>Eugenio Tiselli, <em>The 27th/El 27</em> (2014)</center>
-
-<br/>
-![Blanco](/assets/img/blanco.jpg "Octavio Paz, Blanco")
-<center>Octavio Paz, <em>Blanco</em> (1966/2012)</center>
