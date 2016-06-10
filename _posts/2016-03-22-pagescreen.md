@@ -8,9 +8,7 @@ description: In this section code is printed and pages are digital. / En esta se
 ---
 
 <h4><a href="#EN"><b>[EN]</b> In this section code is printed and pages are digital.</a></h4>
-<br/>
 <h4><a href="#ES"><b>[ES]</b> En esta sección el código se imprime y la página se vuelve digital.</a></h4>
-<br/>
 <h4><a href="#PT"><b>[PT]</b> Nesta secção o código imprime­se e a página devém digital.</a></h4>
 
 --- 
