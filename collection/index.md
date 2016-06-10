@@ -19,7 +19,7 @@ Works are distributed among four stations. The first one focuses on endless and 
 
 The **NL\|\|LE** collection cannot exist without computers. All digital objects in this exhibit are informed by the affordances of the devices in which they are created, distributed, and consumed. Reading these works involves interaction between user and machine. No Legacy visitors must play with the works. Reading at **NL\|\|LE** becomes a full-body experience.
 
-For further details, please visit individual station information.
+For further details, please visit [individual station information](http://nolegacyexhibit.github.io/collection/digital/).
 
 ---
 
@@ -29,7 +29,7 @@ Las obras incluidas están distribuidas en cuatro secciones. La primera se enfoc
 
 La colección de **NL\|\|LE** no puede existir sin computadoras. Todos los objetos digitales responden a la capacidad estructural y material de los dispositivos en los que fueron creados, distribuidos y consumidos. La lectura de estas obras necesita de la interacción entre el usuario y la máquina. El público de No Legacy deberá jugar con las obras. Leer, en **NL\|\|LE**, se convierte en una experiencia de cuerpo completo.
 
-Visite las distintas categorías si desea información adicional sobre cualquiera de las secciones digitales.
+Visite las distintas categorías si desea información adicional sobre cualquiera de las [secciones digitales](http://nolegacyexhibit.github.io/collection/digital/).
 
 ---
 
@@ -39,4 +39,4 @@ As obras incluídas estão distribuídas por quatro secções. A primeira foca-s
 
 A coleção de **NL\|\|LE** não pode existir sem computadores. Todos os objetos digitais estão condicionados pela capacidade estrutural e material dos dispositivos nos quais foram criados, distribuídos e consumidos. A leitura destas obras precisa da interação entre o utilizador e a máquina. O público de No Legacy deverá jogar com as peças. Em **NL\|\|LE**, ler converte-se numa experiência de corpo inteiro.
 
-Mais informação sobre cada secção está disponível visitando as diferentes categorias.
+Mais informação sobre cada secção está disponível visitando as [diferentes categorias](http://nolegacyexhibit.github.io/collection/digital/).
