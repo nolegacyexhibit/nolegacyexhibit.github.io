@@ -13,7 +13,7 @@ tags: [collection]
 
 
 
-**[EN]** *No Legacy \|\| Literatura electrónica* showcases eighteen works of electronic literature in Spanish, Portuguese, and English, next to print works coming from the Spanish-American and European world. Rather than offering a developmental history of e-lit from literary histories, the exhibit relies on a loose dynamic of juxtaposition.
+**[EN] No Legacy \|\| Literatura electrónica** showcases eighteen works of electronic literature in Spanish, Portuguese, and English, next to print works coming from the Spanish-American and European world. Rather than offering a developmental history of e-lit from literary histories, the exhibit relies on a loose dynamic of juxtaposition.
 
 Works are distributed among four stations. The first one focuses on endless and random writing, proposing a world of infinite libraries and books made of sand. Station two escapes the space-time continuum, presenting works where time is malleable, temporalities are bent, and the clock moves on demand. Station three pushes the figurative limits of writing. Works here use language as material to build rather than write. Words not made of letters, but Lego blocks. Finally, electronic works get reified in the fourth and last station of the exhibit. The tension between literary thought and its inscription platform is brought to the fore in a selection of post-digital objects.
 
@@ -40,4 +40,3 @@ As obras incluídas estão distribuídas por quatro secções. A primeira foca-s
 A coleção de **NL\|\|LE** não pode existir sem computadores. Todos os objetos digitais estão condicionados pela capacidade estrutural e material dos dispositivos nos quais foram criados, distribuídos e consumidos. A leitura destas obras precisa da interação entre o utilizador e a máquina. O público de No Legacy deverá jogar com as peças. Em **NL\|\|LE**, ler converte-se numa experiência de corpo inteiro.
 
 Mais informação sobre cada secção está disponível visitando as diferentes categorias.
-
