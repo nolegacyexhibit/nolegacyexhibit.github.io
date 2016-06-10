@@ -24,6 +24,7 @@ Through these works, we grapple with the poetics of the infinite, its fascinatin
 Read, read, read before the computer breaks down, before the library closes.
 
 Works:
+
 - *The Aleph: Infinite Wonder / Infinite Pity*. David Hirmes. 2013  
 - *Globebop*. Jim Andrews. 2015
 - *Victory Garden*. Stuart Moulthrop. 1991
@@ -42,6 +43,7 @@ Estas obras nos enfrentan a la poética del infinito, a sus fascinantes mecanism
 Lean, lean, lean antes de que las computadoras se rompan, antes de que la biblioteca cierre sus puertas.
 
 Obras:
+
 - *The Aleph: Infinite Wonder / Infinite Pity*. David Hirmes. 2013  
 - *Globebop*. Jim Andrews. 2015
 - *Victory Garden*. Stuart Moulthrop. 1991
@@ -60,6 +62,7 @@ Graças a estas obras enfrentamos a poética do infinito, os seus fascinantes me
 Leiam, leiam, leiam antes que os computadores se avariem, antes que a biblioteca feche as suas portas.
 
 Obras:
+
 - *The Aleph: Infinite Wonder / Infinite Pity*. David Hirmes. 2013  
 - *Globebop*. Jim Andrews. 2015
 - *Victory Garden*. Stuart Moulthrop. 1991
