@@ -39,7 +39,7 @@ Vayan de la computadora al libro y vuelvan a empezar.
 
 ---
 
-**<a name="PT>[PT]** Nesta secção o código imprime­se e a página devém digital.</a>
+<a name="PT>[PT] Nesta secção o código imprime­se e a página devém digital.</a>
 
 Estas peças revelam uma relação não­linear entre o impresso e o digital, esbatendo os limites entre ambos e descobrindo modos de os tornar complementares. O resultado é surpreendente, divertido e, algumas vezes, quase impossível de acreditar.
 
