@@ -8,8 +8,8 @@ tags: [about]
 
 **No Legacy \|\| Literatura electrónica**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Literary history is a lie." 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ortega and Saum, "100 Truths and One Red Herring." *Antología del mito*, 2032
+<P ALIGN=LEFT> "Literary history is a lie." 
+Ortega and Saum, "100 Truths and One Red Herring." *Antología del mito*, 2032</P>
 
 Imagine a world where things were completely unrelated. A world where nothing was connected to anything. A social network where users existed in complete isolation. A family where ties were irrelevant. An artistic tradition where works sprung out of nothing. A science without cause and effect. A language where “influence” was defined as “spontaneous combustion.”
 
