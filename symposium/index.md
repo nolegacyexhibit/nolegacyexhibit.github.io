@@ -5,26 +5,30 @@ tags: [symposium]
 
 ---
 
-No Legacy’s Opening Symposium
-Friday, March 11, 2016
+<h2>No Legacy’s Opening Symposium</h2>
+<h3>Friday, March 11, 2016</h3>
 
 
-Two Round Table Discussions
+<h4>Two Round Table Discussions</h4>
+
 10am-12:30pm - Berkeley Institute for Data Science (Doe Library)
 
-1. Electronic Literature: History / Archaeology / Artifacts with Dene Grigar, Élika Ortega and Roberto Cruz Arzabal
+**Electronic Literature: History / Archaeology / Artifacts**
+Dene Grigar, Élika Ortega and Roberto Cruz Arzabal
 
-2. Transatlantic / Transnational / Translinguistic Perspectives on E-Lit with Leonardo Flores, Sandy Baldwin, and Alex Saum
+**Transatlantic / Transnational / Translinguistic Perspectives on E-Lit**
+Leonardo Flores, Sandy Baldwin, and Alex Saum
 
 
-Opening Reception
+<h4>Opening Reception</h4>
+
 5:30pm - Morrison Library (Doe Library)
-with readings by digital poet Amaranth Borsuk and digital writer Doménico Chiappe
+Readings by digital poet Amaranth Borsuk and digital writer Doménico Chiappe
 
 ~ Talks and readings may be in Spanish or English ~
 
 
-Speakers
+<h4>Speakers' bios</h4>
 
 <b>Sandy Baldwin</b> is Associate Professor of English and core faculty in Digital Humanities at the Rochester Institute of Technology. He is author or editor of eleven books, including _The Internet Unconscious_ (Bloomsbury), winner of the 2015 N. Katherine Hayles prize for criticism. He is vice president of the Electronic Literature Organization, the leading organization for promoting and understanding electronic literature; Managing Editor of Electronic Book Review, one of the oldest all-online peer reviewed journals of criticism; and editor in chief of the Computing Literature book series, the only academic book series focused on scholarship on electronic literature. His current artwork primarily focuses on agitprop/activist performances/interventions in multiplayer games, and has been shown around the world.
 
