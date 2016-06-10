@@ -10,7 +10,7 @@ categories: [digital]
 <br/>
 **[ES]** En esta sección el código se imprime y la página se vuelve digital.
 <br/>
-<id href="#PT">[PT] Nesta secção o código imprime­se e a página devém digital.</id>
+<a id="#PT">[PT] Nesta secção o código imprime­se e a página devém digital.</a>
 
 
 **[EN]** In this section code is printed and pages are digital.
