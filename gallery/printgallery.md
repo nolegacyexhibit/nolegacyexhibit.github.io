@@ -8,18 +8,18 @@ tags: [images]
 
 <h2>Print Collection</h2>
 <figure class="half">
-	<a class="image-popup" href="/assets/img/gallery/Digital_9499.jpg"><img src="/assets/img/gallery/Print_9499.jpg"></a>
-	<a class="image-popup" href="/assets/img/gallery/Digital_9420.jpg"><img src="/assets/img/gallery/Print_9520.jpg"></a>
+	<a class="image-popup" href="/assets/img/gallery/Print_9499.jpg"><img src="/assets/img/gallery/Print_9499.jpg"></a>
+	<a class="image-popup" href="/assets/img/gallery/Print_9420.jpg"><img src="/assets/img/gallery/Print_9520.jpg"></a>
 </figure>
 <figure class="half">
-	<a class="image-popup" href="/assets/img/gallery/Digital_9515.jpg"><img src="/assets/img/gallery/Print_9515.jpg"></a>
-	<a class="image-popup" href="/assets/img/gallery/Digital_9513.jpg"><img src="/assets/img/gallery/Print_9513.jpg"></a>
+	<a class="image-popup" href="/assets/img/gallery/Print_9515.jpg"><img src="/assets/img/gallery/Print_9515.jpg"></a>
+	<a class="image-popup" href="/assets/img/gallery/Print_9513.jpg"><img src="/assets/img/gallery/Print_9513.jpg"></a>
 </figure>
 <figure class="half">
-	<a class="image-popup" href="/assets/img/gallery/Digital_9506.jpg"><img src="/assets/img/gallery/Print_9506.jpg"></a>
-	<a class="image-popup" href="/assets/img/gallery/Digital_9516.jpg"><img src="/assets/img/gallery/Print_9516.jpg"></a>
+	<a class="image-popup" href="/assets/img/gallery/Print_9506.jpg"><img src="/assets/img/gallery/Print_9506.jpg"></a>
+	<a class="image-popup" href="/assets/img/gallery/Print_9516.jpg"><img src="/assets/img/gallery/Print_9516.jpg"></a>
 </figure>
 <figure class="half">
-	<a class="image-popup" href="/assets/img/gallery/Digital_9519.jpg"><img src="/assets/img/gallery/Print_9519.jpg"></a>
-	<a class="image-popup" href="/assets/img/gallery/Digital_9502.jpg"><img src="/assets/img/gallery/Print_9502.jpg"></a>
+	<a class="image-popup" href="/assets/img/gallery/Print_9519.jpg"><img src="/assets/img/gallery/Print_9519.jpg"></a>
+	<a class="image-popup" href="/assets/img/gallery/Print_9502.jpg"><img src="/assets/img/gallery/Print_9502.jpg"></a>
 </figure>
