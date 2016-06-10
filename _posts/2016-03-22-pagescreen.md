@@ -6,14 +6,14 @@ categories: [digital]
 
 ---
 
-**[EN]** In this section code is printed and pages are digital.
+**<a href="#EN">[EN]** In this section code is printed and pages are digital.</a>
 <br/>
-**[ES]** En esta sección el código se imprime y la página se vuelve digital.
+**<a href="#ES">[ES]** En esta sección el código se imprime y la página se vuelve digital.</a>
 <br/>
-<a href="#PT">[PT] Nesta secção o código imprime­se e a página devém digital.</a>
+**<a href="#PT">[PT]** Nesta secção o código imprime­se e a página devém digital.</a>
 
 
-**[EN]** In this section code is printed and pages are digital.
+<a id="EN"/>**[EN]** In this section code is printed and pages are digital.
 
 The works gathered here signal a non­linear relationship between the print and the digital. They blur the lines between one and the other and reveal how incisively they complement each other. These works are surprising, amusing, and sometimes mind-bending.
 
@@ -27,7 +27,7 @@ Go from a computer to the book and back again.
 
 ---
 
-**[ES]** En esta sección el código se imprime y la página se vuelve digital.
+<a id="ES"/>**[ES]** En esta sección el código se imprime y la página se vuelve digital.
 
 Las obras aquí incluidas señalan la relación no­lineal entre la imprenta y la expresión digital. Borran los límites entre ambas y descubren modos en los que se complementan la una a la otra. El resultado es sorprendente, divertido y, algunas veces, casi increíble.
 
@@ -39,7 +39,7 @@ Vayan de la computadora al libro y vuelvan a empezar.
 
 ---
 
-<a id="PT"/>[PT] Nesta secção o código imprime­se e a página devém digital.
+<a id="PT"/>**[PT]** Nesta secção o código imprime­se e a página devém digital.
 
 Estas peças revelam uma relação não­linear entre o impresso e o digital, esbatendo os limites entre ambos e descobrindo modos de os tornar complementares. O resultado é surpreendente, divertido e, algumas vezes, quase impossível de acreditar.
 
