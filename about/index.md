@@ -8,7 +8,7 @@ tags: [about]
 
 **No Legacy \|\| Literatura electrónica**
 
-<P ALIGN="RIGHT">"Literary history is a lie." Ortega and Saum, "100 Truths and One Red Herring." 2032</P>
+<P ALIGN="RIGHT">*"Literary history is a lie." Ortega and Saum,* 100 Truths and One Red Herring. *2032*</P>
 
 Imagine a world where things were completely unrelated. A world where nothing was connected to anything. A social network where users existed in complete isolation. A family where ties were irrelevant. An artistic tradition where works sprung out of nothing. A science without cause and effect. A language where “influence” was defined as “spontaneous combustion.”
 
