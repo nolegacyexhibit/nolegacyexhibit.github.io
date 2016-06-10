@@ -15,6 +15,7 @@ The exhibit intervenes in the temporality of the works it brings together. **NL\
 
 Additionally, the literary archaeology proposed in **NL\|\|LE** offers the possibility of traversing languages and geographies. The pieces assembled for the exhibit are joined by material codes and meaning making systems that bypass language. The global scope of the exhibit, moreover, opens paths for interdisciplinary dialogue needed in a world in which information, literature included, moves well beyond borders, and where languages exist in a constant flow of exchange.
 
+A & É
 
 ---
 
@@ -28,6 +29,8 @@ Como zona de acción, **NL\|\|LE** propone deshacer aquellas ideas de influencia
 
 Así mismo, el método arqueológico que se propone para el estudio literario en **NL\|\|LE** nos ofrece la posibilidad de viajar a través de distintas geografías e idiomas. Las obras de la colección se unen a través de códigos materiales y sistemas de creación de sentido que sobrepasan la distinción lingüística. El alcance global que se propone con la muestra, además, busca la apertura de vías de diálogo interdisciplinar en un mundo en el que la información (incluyendo necesariamente aquí la literatura), atraviesa cada día nuevas fronteras, y donde distintos lenguajes e idiomas existen una red de intercambio constante.
 
+A & É
+
 ---
 
 **[PT] No Legacy \|\| Literatura electrónica (NL\|\|LE)** apresenta uma coleção de obras de literatura electrónica em espanhol, português, catalão e inglês junto a obras impressas das vanguardas do Séc. XX e a experimentação pós-digital da contemporaneidade.
@@ -39,3 +42,5 @@ Como campo de ação, **NL\|\|LE** propõe desfazer as ideias de influência e e
 Esta exposição apresenta-se como um exercício de manipulação sobre a temporalidade das obras que aqui se incorporam. A dimensão histórica da mostra emerge e destaca-se pela incorporação de computadores antigos justapostos a dispositivos móveis e a materiais impressos das coleções raras e de circulação regular das bibliotecas da Universidade da Califórnia, Berkeley. Apesar de cada uma destas peças, sejam digitais ou impressas, corresponderem a um momento histórico particular, ao trazê-las de forma conjunta ao espaço de museu, elas são forçadas a coexistir e a dialogar – por breve que seja a sua interação ou a exposição. Por exemplo, os *Cinco metros de poemas* de Carlos Oquendo de Amat estenderiam a sua leitura horizontal até à obra digital de J.R Carpenter *Etheric Ocean*. Os poemas electrónicos de Jörg Piringer em *abcdefghijklmnopqrstuvwxyz*, ou os de Rui Torres nos seus *Poemas no meio do caminho*, ou até os “Poemas de agua” de Belén Gache, situar-se-iam num jogo ergonómico com a “Girandula” de Guillermo de Torre – fazendo-nos mover e rodar olhos, cabeças e mãos. Para além da cinética, os múltiplos infinitos originários da imaginação de *El Aleph* de Jorge Luis Borges ver-se-iam desdobrados na obras *The Aleph: Infinite Wonder / Infinite Pity* de David Hirmes e *Globebop* de Jim Andrews, como exemplo de casos paradigmáticos.
 
 Finalmente, o método arqueológico proposto no estudo literário de **NL\|\|LE** oferece-nos a possibilidade de viajar através de distintas geografias e idiomas. As obras expostas unem-se por códigos materiais e sistemas de criação de sentido que ultrapassam a distinção linguística. Além disso, o alcance global que se pretende com esta exposição visa a abertura de caminhos de diálogo interdisciplinar num mundo em que a informação (incluindo aqui necessariamente a literatura), cada dia atravessa novas fronteiras, e onde diferentes linguagens e idiomas existem numa rede de intercâmbio constante.
+
+A & É
