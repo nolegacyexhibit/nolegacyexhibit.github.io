@@ -6,11 +6,11 @@ categories: [digital]
 
 ---
 
-<a href="#EN"><h2>[EN]</h2> In this section code is printed and pages are digital.</a>
+<a href="#EN"><b>[EN]</b> In this section code is printed and pages are digital.</a>
 <br/>
-<a href="#ES"><h2>[ES]</h2> En esta sección el código se imprime y la página se vuelve digital.</a>
+<a href="#ES"><b>[ES]</b> En esta sección el código se imprime y la página se vuelve digital.</a>
 <br/>
-<a href="#PT"><h2>[PT]</h2> Nesta secção o código imprime­se e a página devém digital.</a>
+<a href="#PT"><b>[PT]</b> Nesta secção o código imprime­se e a página devém digital.</a>
 
 
 <a id="EN"/>**[EN]** In this section code is printed and pages are digital.
