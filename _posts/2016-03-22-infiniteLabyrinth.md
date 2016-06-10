@@ -6,9 +6,7 @@ categories: [digital]
 
 ---
 
-**[EN]** 
-
-In this section we come into contact with the infinite.
+**[EN]** In this section we come into contact with the infinite.
 
 The works gathered here are objects moving towards endlessness. They enact the tension of that which is spatially, chronologically, or conceptually possible to us as readers or viewers.
 
@@ -20,9 +18,7 @@ Read, read, read before the computer breaks down, before the library closes.
 
 ---
 
-**[ES]** 
-
-En esta sección nos adentramos en el infinito.
+**[ES]** En esta sección nos adentramos en el infinito.
 
 Las obras recogidas aquí son objetos en una fuga sin fin, manifestando la tensión existente en nuestra capacidad humana para comprender lo que es espacial, conceptual o cronológicamente posible.
 
@@ -34,9 +30,7 @@ Lean, lean, lean antes de que las computadoras se rompan, antes de que la biblio
 
 ---
 
-**[PT]**
-
-Nesta secção entramos pelo infinito.
+**[PT]** Nesta secção entramos pelo infinito.
 
 As obras aqui exibidas são objetos de uma fuga sem fim, manifestam a tensão existente na nossa capacidade humana para compreender o que é espacial, conceptual ou cronologicamente possível.
 
@@ -47,10 +41,10 @@ Graças a estas obras enfrentamos a poética do infinito, os seus fascinantes me
 Leiam, leiam, leiam antes que os computadores se avariem, antes que a biblioteca feche as suas portas.
 
 ![The Aleph: Infinite Wonder / Infinite Pity](/assets/img/AlephHirmes.jpg "David Hirmes, *The Aleph: Infinite Wonder / Infinite Pity*")
-<center>David Hirmes, <em>The Aleph: Infinite Wonder / Infinite Pity</em>(2013)</center>
+<center>David Hirmes, <em>The Aleph: Infinite Wonder / Infinite Pity</em> (2013)</center>
 <br/>
 ![Globebop](/assets/img/GlobeBop.jpg "Jim Andrews, *Globebop*")
-<center>Jim Andrews, <em>Globebop</em>(2015)</center>
+<center>Jim Andrews, <em>Globebop</em> (2015)</center>
 <br/>
 ![Victory_Garden](/assets/img/Victory_Garden.jpg "Stuart Moulthrop, *Victory Garden*")
-<center>Stuart Moulthrop, <em>Victory Garden</em>(1991)</center>
+<center>Stuart Moulthrop, <em>Victory Garden</em> (1991)</center>
