@@ -19,8 +19,8 @@ tags: [images]
 	<a class="image-popup" href="/assets/img/gallery/Gallery_9535.jpg"><img src="/assets/img/gallery/Gallery_9535.jpg"></a>
 </figure>
 <figure class="half">
-	<img src="/assets/img/gallery/Gallery_9417.jpg">
-	<img src="/assets/img/gallery/Gallery_9521.jpg">
+	<a class="image-popup" href="/assets/img/gallery/Gallery_9417.jpg"><img src="/assets/img/gallery/Gallery_9417.jpg"></a>
+	<a class="image-popup" href="/assets/img/gallery/Gallery_9521.jpg"><img src="/assets/img/gallery/Gallery_9521.jpg"></a>
 </figure>
 <!-- <figure class="half">
 	<img src="/assets/img/gallery/Gallery_acknowledgements.png">
