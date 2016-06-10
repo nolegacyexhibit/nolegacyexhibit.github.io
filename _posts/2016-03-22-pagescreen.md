@@ -13,19 +13,6 @@ description: In this section code is printed and pages are digital. / En esta se
 
 --- 
 
-![Between Page and Screen](/assets/img/Borsuk.jpg "Amaranth Borsuk and Brad Bouse, Between Page and Screen")
-<center>Amaranth Borsuk and Brad Bouse, <em>Between Page and Screen</em> (2012)</center>
-<br/>
-
-![The 27th/El 27](/assets/img/27.jpg "Eugenio Tiselli, The 27th/El 27")
-<center>Eugenio Tiselli, <em>The 27th/El 27</em> (2014)</center>
-
-<br/>
-![Blanco](/assets/img/blanco.jpg "Octavio Paz, Blanco")
-<center>Octavio Paz, <em>Blanco</em> (1966/2012)</center>
-
----
-
 <a id="EN"/>**[EN]** In this section code is printed and pages are digital.
 
 The works gathered here signal a non­linear relationship between the print and the digital. They blur the lines between one and the other and reveal how incisively they complement each other. These works are surprising, amusing, and sometimes mind-bending.
@@ -63,5 +50,16 @@ Todas estas peças, ao defenderem o lugar do códex impresso no mundo digital,
 desafiam o discurso cada vez mais generalizado sobre a morte do livro.
 
 Vá do computador ao livro. Recomece.
+
+![Between Page and Screen](/assets/img/Borsuk.jpg "Amaranth Borsuk and Brad Bouse, Between Page and Screen")
+<center>Amaranth Borsuk and Brad Bouse, <em>Between Page and Screen</em> (2012)</center>
+<br/>
+
+![The 27th/El 27](/assets/img/27.jpg "Eugenio Tiselli, The 27th/El 27")
+<center>Eugenio Tiselli, <em>The 27th/El 27</em> (2014)</center>
+
+<br/>
+![Blanco](/assets/img/blanco.jpg "Octavio Paz, Blanco")
+<center>Octavio Paz, <em>Blanco</em> (1966/2012)</center>
 
 
