@@ -23,6 +23,14 @@ These works make us rethink sequential time. Effects don’t always seem to have
 
 Start at the end, or in the middle. Start more than one time.
 
+**Works:**
+
+
+- *its name was Penelope*. Judy Malloy.1993
+- *Tierra de extracción*. Doménico Chiappe and Andreas Meier. 2007 (2000)
+- *Etheric Ocean*. J.R. Carpenter. 2014
+- *Wordtoys*. Belén Gache. 2006
+
 ---
 
 <a id="ES"/>**[ES]** En esta sección no hay ni pasado ni presente ni futuro.
@@ -35,6 +43,14 @@ Todas estas obras nos hacen repensar el tiempo secuencial. Los eventos se nos pr
 
 Comiencen a leer por el final o por la mitad del relato. Vuelvan a empezar.
 
+**Obras:**
+
+
+- *its name was Penelope*. Judy Malloy.1993
+- *Tierra de extracción*. Doménico Chiappe and Andreas Meier. 2007 (2000)
+- *Etheric Ocean*. J.R. Carpenter. 2014
+- *Wordtoys*. Belén Gache. 2006
+
 ---
 
 <a id="PT"/>**[PT]** Nesta secção não há nem passado, nem presente, nem futuro.
@@ -46,6 +62,15 @@ Nestas obras fundem­se diferentes temporalidades. O tempo move­se em círculos
 Todas estas obras nos fazem repensar o tempo sequencial. Os eventos apresentam­se­nos sem causa. A história não é linear, a forma como se a conta é o importante.
 
 Comecem a ler pelo fim ou pela metade. Recomecem.
+
+**Obras:**
+
+
+- *its name was Penelope*. Judy Malloy.1993
+- *Tierra de extracción*. Doménico Chiappe and Andreas Meier. 2007 (2000)
+- *Etheric Ocean*. J.R. Carpenter. 2014
+- *Wordtoys*. Belén Gache. 2006
+
 <br/>
 ![Etheric Ocean](/assets/img/etheric_ocean.jpg "J.R. Carpenter, Etheric Ocean")
 <center>J.R. Carpenter, <em>Etheric Ocean</em> (2014)</center>
