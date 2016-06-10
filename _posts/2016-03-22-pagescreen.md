@@ -7,11 +7,13 @@ description: In this section code is printed and pages are digital. / En esta se
 
 ---
 
-<a href="#EN"><b>[EN]</b> In this section code is printed and pages are digital.</a>
+<a href="#EN"><h3><b>[EN]</b> In this section code is printed and pages are digital.</h3></a>
 <br/>
-<a href="#ES"><b>[ES]</b> En esta sección el código se imprime y la página se vuelve digital.</a>
 <br/>
-<a href="#PT"><b>[PT]</b> Nesta secção o código imprime­se e a página devém digital.</a>
+<a href="#ES"><h3><b>[ES]</b> En esta sección el código se imprime y la página se vuelve digital.</h3></a>
+<br/>
+<br/>
+<a href="#PT"><h3><b>[PT]</b> Nesta secção o código imprime­se e a página devém digital.</h3></a>
 
 <br/>
 ![Between Page and Screen](/assets/img/Borsuk.jpg "Amaranth Borsuk and Brad Bouse, Between Page and Screen")
