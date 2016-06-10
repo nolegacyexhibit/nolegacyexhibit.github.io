@@ -3,7 +3,7 @@ layout: post-digital
 title: The Endless Labyrinth / El laberinto infinito /  O labirinto infinito
 tags: [digital]
 categories: [digital]
-description: In this section we come into contact with the infinite. /
+description: In this section we come into contact with the infinite. / En esta sección nos adentramos en el infinito. / Nesta secção entramos pelo infinito.
 
 ---
 
