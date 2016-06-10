@@ -18,6 +18,7 @@ description: In this section code is printed and pages are digital. / En esta se
 	<img src="/assets/img/27.jpg">
 	<img src="/assets/img/blanco.jpg">
 	</figure>
+	
 <br/>
 <!--![Between Page and Screen](/assets/img/Borsuk.jpg "Amaranth Borsuk and Brad Bouse, Between Page and Screen")-->
 <!--<center>Amaranth Borsuk and Brad Bouse, <em>Between Page and Screen</em> (2012)</center>-->
