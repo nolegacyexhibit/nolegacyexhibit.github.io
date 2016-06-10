@@ -3,10 +3,17 @@ layout: post-digital
 title: The Endless Labyrinth / El laberinto infinito /  O labirinto infinito
 tags: [digital]
 categories: [digital]
+description: In this section we come into contact with the infinite. /
 
 ---
 
-**[EN]** In this section we come into contact with the infinite.
+<h4><a href="#EN">[EN] In this section we come into contact with the infinite.</a></h4>
+<h4><a href="#ES">[ES] En esta sección nos adentramos en el infinito.</a></h4>
+<h4><a href="#PT">[PT]** Nesta secção entramos pelo infinito.</a></h4>
+
+---
+
+<a id="EN"/>**[EN]** In this section we come into contact with the infinite.
 
 The works gathered here are objects moving towards endlessness. They enact the tension of that which is spatially, chronologically, or conceptually possible to us as readers or viewers.
 
@@ -18,7 +25,7 @@ Read, read, read before the computer breaks down, before the library closes.
 
 ---
 
-**[ES]** En esta sección nos adentramos en el infinito.
+<a id="ES"/>**[ES]** En esta sección nos adentramos en el infinito.
 
 Las obras recogidas aquí son objetos en una fuga sin fin, manifestando la tensión existente en nuestra capacidad humana para comprender lo que es espacial, conceptual o cronológicamente posible.
 
@@ -30,7 +37,7 @@ Lean, lean, lean antes de que las computadoras se rompan, antes de que la biblio
 
 ---
 
-**[PT]** Nesta secção entramos pelo infinito.
+<a id="PT"/>**[PT]** Nesta secção entramos pelo infinito.
 
 As obras aqui exibidas são objetos de uma fuga sem fim, manifestam a tensão existente na nossa capacidade humana para compreender o que é espacial, conceptual ou cronologicamente possível.
 
