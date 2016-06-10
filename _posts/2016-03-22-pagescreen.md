@@ -14,7 +14,7 @@ description: In this section code is printed and pages are digital. / En esta se
 <a href="#PT"><b>[PT]</b> Nesta secção o código imprime­se e a página devém digital.</a>
 
 <figure class="third">
-	<img src="/assets/img/Borsuk.jpg">"Amaranth Borsuk and Brad Bouse, Between Page and Screen"</img
+	<img src="/assets/img/Borsuk.jpg">
 	<img src="/assets/img/27.jpg">
 	<img src="/assets/img/blanco.jpg">
 	</figure>
