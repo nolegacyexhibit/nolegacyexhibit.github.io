@@ -7,6 +7,11 @@ categories: [digital]
 ---
 
 **[EN]** In this section code is printed and pages are digital.
+**[ES]** En esta sección el código se imprime y la página se vuelve digital.
+<id href="#PT">**[PT]** Nesta secção o código imprime­se e a página devém digital.</id>
+
+
+**[EN]** In this section code is printed and pages are digital.
 
 The works gathered here signal a non­linear relationship between the print and the digital. They blur the lines between one and the other and reveal how incisively they complement each other. These works are surprising, amusing, and sometimes mind-bending.
 
@@ -32,7 +37,7 @@ Vayan de la computadora al libro y vuelvan a empezar.
 
 ---
 
-**[PT]** Nesta secção o código imprime­se e a página devém digital.
+**<id name="PT>[PT]** Nesta secção o código imprime­se e a página devém digital.</id>
 
 Estas peças revelam uma relação não­linear entre o impresso e o digital, esbatendo os limites entre ambos e descobrindo modos de os tornar complementares. O resultado é surpreendente, divertido e, algumas vezes, quase impossível de acreditar.
 
