@@ -47,7 +47,3 @@ Lingyu Wang
 Yipu Zheng
 
 Alexandra Ellman
-
----
-
-
