@@ -25,7 +25,7 @@ Start at the end, or in the middle. Start more than one time.
 
 
 - *its name was Penelope*. Judy Malloy. 1993
-- *Tierra de extracción*. Doménico Chiappe and Andreas Meier. 2007 (2000)
+- *Tierra de extracción*. Doménico Chiappe and Andreas Meier. (2000) 2007
 - *Etheric Ocean*. J.R. Carpenter. 2014
 - *Wordtoys*. Belén Gache. 2006
 
@@ -45,7 +45,7 @@ Comiencen a leer por el final o por la mitad del relato. Vuelvan a empezar.
 
 
 - *its name was Penelope*. Judy Malloy. 1993
-- *Tierra de extracción*. Doménico Chiappe and Andreas Meier. 2007 (2000)
+- *Tierra de extracción*. Doménico Chiappe and Andreas Meier. (2000) 2007
 - *Etheric Ocean*. J.R. Carpenter. 2014
 - *Wordtoys*. Belén Gache. 2006
 
@@ -65,7 +65,7 @@ Comecem a ler pelo fim ou pela metade. Recomecem.
 
 
 - *its name was Penelope*. Judy Malloy. 1993
-- *Tierra de extracción*. Doménico Chiappe and Andreas Meier. 2007 (2000)
+- *Tierra de extracción*. Doménico Chiappe and Andreas Meier. (2000) 2007
 - *Etheric Ocean*. J.R. Carpenter. 2014
 - *Wordtoys*. Belén Gache. 2006
 
