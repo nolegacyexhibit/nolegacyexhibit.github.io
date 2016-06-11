@@ -15,7 +15,7 @@ tags: [collection]
 
 ---
 
-<h5 align="center"><a href="http://nolegacyexhibit.github.io/collection/print">Print Collection</a>&nbsp;&nbsp;&nbsp;<a <href="http://nolegacyexhibit.github.io/collection/digital"></a></h5>
+<h5 align="center"><a href="http://nolegacyexhibit.github.io/collection/print">Print Collection</a>&nbsp;&nbsp;&nbsp;<a href="http://nolegacyexhibit.github.io/collection/digital"></a></h5>
 
 ---
 
