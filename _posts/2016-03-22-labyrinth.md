@@ -6,9 +6,7 @@ categories: [print]
 description: The works of Jorge Luis Borges presented here are short texts about the infinite. / Estas obras de Jorge Luis Borges tratan temas sobre el infinito. / Estas obras de Jorge Luis Borges são textos curtos sobre o infinito.
 ---
 
-<h4><a href="#EN">[EN] The works of Jorge Luis Borges presented here are short texts about the infinite.</a></h4>
-<h4><a href="#ES">[ES] Estas obras de Jorge Luis Borges tratan temas sobre el infinito.</a></h4>
-<h4><a href="#PT">[PT] Estas obras de Jorge Luis Borges são textos curtos sobre o infinito.</a></h4>
+<h4 align="center"><a href="#EN">[EN]</a>&nbsp;&nbsp;&nbsp; <a href="#ES">[ES]</a> &nbsp;&nbsp;&nbsp;<a href="#PT">[PT]</a> </h4>
 
 ---
 
