@@ -24,6 +24,8 @@ David Wong, <em>Lead for Computer Infrastructure Support</em>
 
 Sam Hunnicutt, <em>Student Docent</em>
 
+Lonny Meyers, <em>Photographer</em>
+
 ---
 
 <b>Exhibition Design Team:</b>
@@ -45,3 +47,7 @@ Lingyu Wang
 Yipu Zheng
 
 Alexandra Ellman
+
+---
+
+
