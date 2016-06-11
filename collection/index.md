@@ -4,7 +4,12 @@ title: Collection
 tags: [collection]
 
 ---
-<h4 align="center"><a href=http://nolegacyexhibit.github.io/collection/print>Print Collection</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=http://nolegacyexhibit.github.io/collection/digital>Digital Collection</a></h4>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+###[Print Collection](http://nolegacyexhibit.github.io/collection/print)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+###[Digital Collection](http://nolegacyexhibit.github.io/collection/digital)
 
 ---
 <h4 align="center"><a href="#EN">[EN]</a> <a href="#ES">[ES]   </a> <a href="#PT">[PT]   </a> </h4>
