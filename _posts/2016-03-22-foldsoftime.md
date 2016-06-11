@@ -7,9 +7,7 @@ description: In this section there is no past, present, or future. / En esta sec
 
 ---
 
-<h4><a href="#EN">[EN] In this section there is no past, present, or future.</a></h4>
-<h4><a href="#ES">[ES] En esta sección no hay ni pasado ni presente ni futuro.</a></h4>
-<h4><a href="#PT">[PT] Nesta secção não há nem passado, nem presente, nem futuro.</a></h4>
+<h4 align="center"><a href="#EN">[EN]</a>&nbsp;&nbsp;&nbsp; <a href="#ES">[ES]</a> &nbsp;&nbsp;&nbsp;<a href="#PT">[PT]</a> </h4>
 
 ---
 
@@ -26,7 +24,7 @@ Start at the end, or in the middle. Start more than one time.
 **Works:**
 
 
-- *its name was Penelope*. Judy Malloy.1993
+- *its name was Penelope*. Judy Malloy. 1993
 - *Tierra de extracción*. Doménico Chiappe and Andreas Meier. 2007 (2000)
 - *Etheric Ocean*. J.R. Carpenter. 2014
 - *Wordtoys*. Belén Gache. 2006
@@ -46,7 +44,7 @@ Comiencen a leer por el final o por la mitad del relato. Vuelvan a empezar.
 **Obras:**
 
 
-- *its name was Penelope*. Judy Malloy.1993
+- *its name was Penelope*. Judy Malloy. 1993
 - *Tierra de extracción*. Doménico Chiappe and Andreas Meier. 2007 (2000)
 - *Etheric Ocean*. J.R. Carpenter. 2014
 - *Wordtoys*. Belén Gache. 2006
@@ -66,7 +64,7 @@ Comecem a ler pelo fim ou pela metade. Recomecem.
 **Obras:**
 
 
-- *its name was Penelope*. Judy Malloy.1993
+- *its name was Penelope*. Judy Malloy. 1993
 - *Tierra de extracción*. Doménico Chiappe and Andreas Meier. 2007 (2000)
 - *Etheric Ocean*. J.R. Carpenter. 2014
 - *Wordtoys*. Belén Gache. 2006
