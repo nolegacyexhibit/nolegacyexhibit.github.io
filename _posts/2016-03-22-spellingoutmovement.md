@@ -6,9 +6,7 @@ categories: [print]
 description: The works gathered here use graphemes as pictorial material; they experiment with typography to recreate movement, image, and signs. / Las obras recogidas en esta selección utilizan el grafema como material pictórico, experimentan con la tipografía para recrear movimiento, imagen y signos. / As obras selecionadas utilizam grafemas como material pictórico, experimentam com a tipografia para recriar movimento, imagem e signos.
 ---
 
-<h4><a href="#EN">[EN] The works gathered here use graphemes as pictorial material; they experiment with typography to recreate movement, image, and signs.</a></h4>
-<h4><a href="#ES">[ES] Las obras recogidas en esta selección utilizan el grafema como material pictórico, experimentan con la tipografía para recrear movimiento, imagen y signos.</a></h4>
-<h4><a href="#PT">[PT] As obras selecionadas utilizam grafemas como material pictórico, experimentam com a tipografia para recriar movimento, imagem e signos.</a></h4>
+<h4 align="center"><a href="#EN">[EN]</a>&nbsp;&nbsp;&nbsp; <a href="#ES">[ES]</a> &nbsp;&nbsp;&nbsp;<a href="#PT">[PT]</a> </h4>
 ---
 
 <a id="EN"/>**[EN]** The works gathered here use graphemes as pictorial material; they experiment with typography to recreate movement, image, and signs. Letters and words are comprised of  visual strokes. Texts shown include 19th-century visual or shape poetry by French poet Stéphane Mallarmé, F.T. Marinetti and the 20th-century Italian futurists, and key creacionismo works by Chilean avant-garde poet Vicente Huidobro, among others.
