@@ -4,7 +4,7 @@ title: Curatorial Statement
 tags: [statement]
 
 ---
-<h4 align="center"><a href="#EN">[EN]   </a> <a href="#ES">[ES]   </a> <a href="#PT">[PT]   </a> </h4>
+<h4 align="center"><a href="#EN">[EN]</a>&nbsp;&nbsp;&nbsp; <a href="#ES">[ES]</a> &nbsp;&nbsp;&nbsp;<a href="#PT">[PT]</a> </h4>
 
 ---
 
@@ -24,7 +24,7 @@ A & É
 
 <a id="ES"/>**[ES] No Legacy \|\| Literatura electrónica (NL\|\|LE)** presenta una colección de obras de literatura electrónica en español, portugués, catalán e inglés, junto a obras impresas de las vanguardias del siglo XX y la experimentación postdigital de la contemporaneidad.
 
-La exposición busca recalcar el uso de tecnologías computacionales y digitales en la producción literaria de un mundo comprendido como esencialmente interconectado, así como su relación material con acercamientos tecnológicos a movimientos literarios del pasado siglo XX como el futurismo, el concretismo, el creacionismo, el estridentismo, o el realismo mágico, entre otros. Al posicionar de manera conjunta una serie de objetos impresos y digitales en el espacio concreto de la galería, **NL\|\|LE** impone una perspectiva arqueológica al estudio literario que, siguiendo las directrices de Siegfried Zielinski, busca crear una zona de acción y ensayo que conecte aquello que se está separado. Así, con **NL\|\|LE** nos cuestionamos relaciones literarias poco convencionales como aquellas que traten y manipulen la obra literaria como si fuera un objeto.
+La exposición busca recalcar el uso de tecnologías computacionales y digitales en la producción literaria en un mundo comprendido como esencialmente interconectado, así como su relación material con acercamientos tecnológicos a movimientos literarios del pasado siglo XX como el futurismo, el concretismo, el creacionismo, el estridentismo, o el realismo mágico, entre otros. Al posicionar de manera conjunta una serie de objetos impresos y digitales en el espacio concreto de la galería, **NL\|\|LE** impone una perspectiva arqueológica al estudio literario que, siguiendo las directrices de Siegfried Zielinski, busca crear una zona de acción y ensayo que conecte aquello que esté separado. Así, con **NL\|\|LE** nos cuestionamos relaciones literarias poco convencionales como aquellas que traten y manipulen la obra literaria como si fuera un objeto.
 
 Como zona de acción, **NL\|\|LE** propone deshacer aquellas ideas de influencia y evolución (como bases de la historia literaria) que conectan la materialidad y la temporalidad de una obra, a la vez que compartimentan su geografía e idiomas a nivel global. Igualmente, nuestra práctica curatorial busca reconectar los objetos de esta colección al desenterrar relaciones discontinuas de tensión, analogía y coincidencia. Aunque este tipo de relaciones puedan parecer idiosincráticas al enfrentarlas con otras organizaciones sistémicas típicas a la disciplina literaria, en el marco de **NL\|\|LE** estas relaciones son también capaces de revelarnos otras preocupaciones estéticas y filosóficas que atraviesan nuestra noción de lo literario.
 
