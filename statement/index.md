@@ -4,8 +4,11 @@ title: Curatorial Statement
 tags: [statement]
 
 ---
+<h4 align="center"><a href="#EN">[EN]</a> <a href="#ES">[ES]</a> <a href="#PT">[PT]</a> </h4>
 
-**[EN] No Legacy \|\| Literatura electrónica (NL\|\|LE)** presents a collection of works of electronic literature in Spanish, Portuguese, Catalan, and English together with print works of the 20th-century avant-garde and contemporary post-digital experimentalism.
+---
+
+<a id="EN"/>**[EN] No Legacy \|\| Literatura electrónica (NL\|\|LE)** presents a collection of works of electronic literature in Spanish, Portuguese, Catalan, and English together with print works of the 20th-century avant-garde and contemporary post-digital experimentalism.
 
 The exhibition showcases the use of computational and digital technologies in literary production in the networked world and its material connections with 20th-century technologized approaches to literature like futurism, concretism, creationism, stridentism, magical realism, and others. By bringing purposefully together a collection of print and electronic works in the single space of a gallery, **NL\|\|LE** takes on a media archaeological perspective to create a "space of action for constructed attempts to connect what is separated," in Siegfried Zielinski's words. **NL\|\|LE** asks questions that highlight unconventional literary relationships like the look or the handling of the works as objects.
 
@@ -19,7 +22,7 @@ A & É
 
 ---
 
-**[ES] No Legacy \|\| Literatura electrónica (NL\|\|LE)** presenta una colección de obras de literatura electrónica en español, portugués, catalán e inglés, junto a obras impresas de las vanguardias del siglo XX y la experimentación postdigital de la contemporaneidad.
+<a id="ES"/>**[ES] No Legacy \|\| Literatura electrónica (NL\|\|LE)** presenta una colección de obras de literatura electrónica en español, portugués, catalán e inglés, junto a obras impresas de las vanguardias del siglo XX y la experimentación postdigital de la contemporaneidad.
 
 La exposición busca recalcar el uso de tecnologías computacionales y digitales en la producción literaria de un mundo comprendido como esencialmente interconectado, así como su relación material con acercamientos tecnológicos a movimientos literarios del pasado siglo XX como el futurismo, el concretismo, el creacionismo, el estridentismo, o el realismo mágico, entre otros. Al posicionar de manera conjunta una serie de objetos impresos y digitales en el espacio concreto de la galería, **NL\|\|LE** impone una perspectiva arqueológica al estudio literario que, siguiendo las directrices de Siegfried Zielinski, busca crear una zona de acción y ensayo que conecte aquello que se está separado. Así, con **NL\|\|LE** nos cuestionamos relaciones literarias poco convencionales como aquellas que traten y manipulen la obra literaria como si fuera un objeto.
 
@@ -33,7 +36,7 @@ A & É
 
 ---
 
-**[PT] No Legacy \|\| Literatura electrónica (NL\|\|LE)** apresenta uma coleção de obras de literatura electrónica em espanhol, português, catalão e inglês junto a obras impressas das vanguardas do Séc. XX e a experimentação pós-digital da contemporaneidade.
+<a id="PT"/>**[PT] No Legacy \|\| Literatura electrónica (NL\|\|LE)** apresenta uma coleção de obras de literatura electrónica em espanhol, português, catalão e inglês junto a obras impressas das vanguardas do Séc. XX e a experimentação pós-digital da contemporaneidade.
 
 A exposição procura mostrar o uso de tecnologias computacionais e digitais na produção literária de um mundo experienciado como interligado, assim como a sua relação material com abordagens tecnológicas à literatura que se encontram em movimentos do século passado, tais como o futurismo, o concretismo, o criacionismo, o estridentismo, ou o realismo fantástico. Ao juntar uma série de objetos impressos e digitais no mesmo espaço concreto da galeria, **NL\|\|LE** impõe uma perspectiva arqueológica ao estudo literário que, segundo as diretrizes de Siegfried Zielinski, procura criar uma zona de ação e ensaio que liga o que está separado. Assim, com **NL\|\|LE** questionamos relações literárias pouco convencionais como aquelas que tratam e manipulam a obra literária como se de um objeto se tratasse.
 
