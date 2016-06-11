@@ -4,7 +4,7 @@ title: Curatorial Statement
 tags: [statement]
 
 ---
-<h4 align="center"><a href="#EN">[EN]</a> <a href="#ES">[ES]</a> <a href="#PT">[PT]</a> </h4>
+<h4 align="center"><a href="#EN">[EN]   </a> <a href="#ES">[ES]   </a> <a href="#PT">[PT]   </a> </h4>
 
 ---
 
