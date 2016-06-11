@@ -11,7 +11,11 @@ tags: [collection]
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Digital Collection](http://nolegacyexhibit.github.io/collection/digital)
 
 ---
-<h4 align="center"><a href="#EN">[EN]</a> <a href="#ES">[ES]   </a> <a href="#PT">[PT]   </a> </h4>
+<h4 align="center"><a href="#EN">[EN]</a>&nbsp;&nbsp;&nbsp; <a href="#ES">[ES]</a> &nbsp;&nbsp;&nbsp;<a href="#PT">[PT]</a> </h4>
+
+---
+
+<h5 align="center"><a href="http://nolegacyexhibit.github.io/collection/print">Print Collection</a>&nbsp;&nbsp;&nbsp;<a <href="http://nolegacyexhibit.github.io/collection/digital"></a></h5>
 
 ---
 
