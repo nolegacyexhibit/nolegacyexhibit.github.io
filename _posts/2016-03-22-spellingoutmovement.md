@@ -22,7 +22,7 @@ description: The works gathered here use graphemes as pictorial material; they e
 
 ---
 
-<a id="Works"/> [Works / Obras / Obras]
+<a id="Works"/> **[Works / Obras / Obras]**
 
 
 - Huidobro, Vicente. *Canciones en la noche.* Santiago de Chile: Imprenta y encuadernación Chile, 1913.
