@@ -5,13 +5,12 @@ title: "On-Site Gallery"
 tags: [images]
 
 ---
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[Print Collection Gallery](http://nolegacyexhibit.github.io/gallery/printgallery)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[Digital Collection Gallery](http://nolegacyexhibit.github.io/gallery/digitalgallery)
- 
 
-<h2>Gallery</h2>
+[Digital Collection Gallery](http://nolegacyexhibit.github.io/gallery/digitalgallery)
+
+<h5 align="center"><a href="http://nolegacyexhibit.github.io/gallery/printgallery">Print Collection Gallery</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://nolegacyexhibit.github.io/gallery/digitalgallery">Digital Collection Gallery</a></h5>
+
+<h2>Brown Gallery</h2>
 
 <figure class="half">
 
