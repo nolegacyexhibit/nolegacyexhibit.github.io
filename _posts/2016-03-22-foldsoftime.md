@@ -11,7 +11,7 @@ description: In this section there is no past, present, or future. / En esta sec
 
 ---
 
-<a id="EN"/>**[EN]** In this section there is no past, present, or future.<
+<a id="EN"/>**[EN]** In this section there is no past, present, or future.
 
 The works gathered here fuse temporalities. Time moves in circles, in parallel or back and forth in them. These works question causality and sequentiality and reveal new connections among events and objects.
 
