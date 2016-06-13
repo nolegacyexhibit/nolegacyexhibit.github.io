@@ -38,7 +38,7 @@ tags: [collection]
 - *Taroko Gorge.* Nick Montfort. 2009
 
 
-### **Page-Screen-Page / Página-Pantalla-Página / Página­-tela-­página
+### **Page-Screen-Page / Página-Pantalla-Página / Página­-tela-­página**
 
 - *Between Page and Screen.* Amaranth Borsuk and Brad Bouse. 2012
 - *O Livro depois do Livro / The Book After the Book.* Giselle Beiguelman. 1999
@@ -130,7 +130,7 @@ tags: [collection]
 - Guillermo de Torre. “Girandula” and Cabellera” from *Hélices: poemas (1918-1922).* Madrid: Editorial Mundo Latino, 1923.
 
 
-**The endless labyrinth / El laberinto infinito / O labirinto infinito**
+### **The endless labyrinth / El laberinto infinito / O labirinto infinito**
 
 
 - Borges, Jorge Luis, Nestor Ibarra, and Raymond Gid. *La bibliothèque de babel.* Montanthiaume: Raymond Gid, 1963.
