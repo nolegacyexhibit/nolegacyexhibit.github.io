@@ -17,32 +17,24 @@ layout: compress
     <header class="header" role="banner">
         <div class="wrapper animated fadeIn">
             <div class="content" style="font-size:1rem;font-weight:300;font-family:Fira Sans,sans serif;">
-                <div class="post-title {% if page.feature %} feature {% endif %}" style="font-size:1rem;font-weight:300;font-family:Ubuntu;">
+
+                <div class="post-title {% if page.feature %} feature {% endif %}" style="font-size:1rem;font-weight:300;font-family:Ubuntu">
                     <h1>{{ page.title }}</h1>
-                    <!-- <h4>{{ page.date | date_to_string }}</h4> -->
-                    {% if site.reading_time %}
-                    <p class="reading-time">
-                      <i class="fa fa-clock-o"></i>
-                      {% include read-time.html %}
-                    </p><!-- /.entry-reading-time -->
-                    {% endif %}
-                    {% if page.project %}
-                    <a class="btn zoombtn" href="{{site.url}}/projects/">
-                    {% else %}
                     <a class="btn zoombtn" href="{{site.url}}/collection/">
-                    {% endif %}
-                        <i class="fa fa-chevron-left"></i>
+                        <i class="fa fa-home"></i>
                     </a>
                     <a class="btn zoombtn" href="{{site.url}}">
                         <i class="fa fa-home"></i>
                     </a>
-                </div>
-                {{ content }}
-                <div class="entry-meta">
-                {% include meta.html %}
-                </div>
-            </div>
+                    
+
+                  </div>
+                  <div style="font-size:1rem;font-weight:300;">
+                  {{ content }}
+                  </div>
         </div>
+
+
         {% if page.comments and site.disqus_shortname %}<section id="disqus_thread" class="animated fadeInUp"></section><!-- /#disqus_thread -->{% endif %}
     </header>
     {% include scripts.html %}
