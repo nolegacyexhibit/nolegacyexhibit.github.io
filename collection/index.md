@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Collection
 tags: [collection]
 ---
