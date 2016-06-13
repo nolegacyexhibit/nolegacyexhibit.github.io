@@ -6,7 +6,6 @@ tags: [images]
 
 ---
 
-###Contact
 
 **No Legacy** was co-curated by Alex Saum-Pascual and Élika Ortega.
 
