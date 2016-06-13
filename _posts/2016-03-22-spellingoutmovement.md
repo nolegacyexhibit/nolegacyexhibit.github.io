@@ -7,7 +7,6 @@ description: The works gathered here use graphemes as pictorial material; they e
 ---
 
 <h4 align="center"><a href="#EN">[EN]</a>&nbsp;&nbsp;&nbsp; <a href="#ES">[ES]</a> &nbsp;&nbsp;&nbsp;<a href="#PT">[PT]</a> </h4>
-<h4 align="center"><a href="#Works">[Works / Obras / Obras]</a> </h4>
 
 ---
 
@@ -21,12 +20,4 @@ description: The works gathered here use graphemes as pictorial material; they e
 
 <a id="PT"/>**[PT]** As obras selecionadas utilizam grafemas como material pictórico, experimentam com a tipografia para recriar movimento, imagem e signos. As letras e as palavras são pinceladas visuais. Inclui-se poesia visual ou formal do Séc. XIX do francês Stéphane Mallarmé, de F.T.Marinetti e dos futuristas italianos do Séc. XX, juntamente com obras chave do movimento criacionista do poeta vanguardista chileno Vicente Huidobro, entre outros.
 
----
 
-<a id="Works"/> **[Works / Obras /Obras]**
-
-- Huidobro, Vicente. *Canciones en la noche.* Santiago de Chile: Imprenta y encuadernación Chile, 1913.
-- Stéphane Mallarmé’s “Un coup de dès jamais n’abolira le hasard” (A Throw of the Dice will Never Abolish Chance) was first published in *Cosmopolis: Revue Internationale* (Vol. IV, April-June, 1897). London, England: Stone &amp; Kimball, c1896-1898.
-- Huidobro, Vicente. *Manifestes, manifeste, manifest, manifes, manife, manif, man, ma m.* Paris: Éditionsde la Revue Mondiale, 1925.
-- Marinetti, F. T. *Les mots en liberté futuristes.* Milano: Edizioni futuriste di “Poesia,” 1919.
-- Alomar, Gabriel. *El futurisme.* Barcelona: L'Avenç, 1905.
