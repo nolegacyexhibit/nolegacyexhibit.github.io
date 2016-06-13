@@ -8,6 +8,8 @@ tags: [symposium]
 <h2>No Legacy’s Opening Symposium</h2>
 <h3>Friday, March 11, 2016</h3>
 
+![Flyer](/assets/img/e-LIT_flyer.jpg "Symposium Flyer")
+
 
 <h4>Two Round Table Discussions</h4>
 
