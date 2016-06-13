@@ -3,7 +3,12 @@ layout: page
 title: List of Works
 tags: [collection]
 ---
-
+<a class="btn zoombtn" href="{{site.url}}/collection/">
+<i class="fa fa-chevron-left">
+</a>
+<<a class="btn zoombtn" href="{{site.url}}">
+                        <i class="fa fa-home"></i>
+</a>
 
 ## Digital
 
