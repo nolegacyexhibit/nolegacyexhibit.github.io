@@ -22,7 +22,7 @@ tags: [collection]
 ### **The folds of time / Los pliegues del tiempo / As dobras do tempo**
 
 
-- *its name was Penelope.* Judy Malloy.1993
+- *its name was Penelope.* Judy Malloy. 1993
 - *Tierra de extracción.* Doménico Chiappe and Andreas Meier. 2007 (2000)
 - *Etheric Ocean.* J.R. Carpenter. 2014
 - *Wordtoys.* Belén Gache. 2006
