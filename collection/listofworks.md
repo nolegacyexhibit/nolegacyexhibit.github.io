@@ -10,7 +10,7 @@ tags: [collection]
 
 
 
-### **The Endless Labyrinth / El laberinto infinito /  O labirinto infinito**
+### **The endless labyrinth / El laberinto infinito /  O labirinto infinito**
 
 
 
