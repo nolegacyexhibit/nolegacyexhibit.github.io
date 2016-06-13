@@ -1,5 +1,5 @@
 ---
-layout: post-digital
+layout: page-works
 title: List of Works
 tags: [collection]
 ---
