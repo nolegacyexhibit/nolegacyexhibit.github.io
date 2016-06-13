@@ -6,7 +6,7 @@ tags: [images]
 
 ---
 
-<h2>Digital Collection</h2>
+
 <figure class="half">
 	<a class="image-popup" href="/assets/img/gallery/Digital_9420.jpg"><img src="/assets/img/gallery/Digital_9420.jpg"></a>
 	<a class="image-popup" href="/assets/img/gallery/Digital_9454.jpg"><img src="/assets/img/gallery/Digital_9454.jpg"></a>
