@@ -6,7 +6,7 @@ tags: [collection]
 
 
 ## Digital
---
+
 
 
 ### **The Endless Labyrinth / El laberinto infinito /  O labirinto infinito**
@@ -19,7 +19,7 @@ tags: [collection]
 - *Babel’s Monkeys.* Luis Sarmento, 2012
 
 
-###**The folds of time / Los pliegues del tiempo / As dobras do tempo**
+### **The folds of time / Los pliegues del tiempo / As dobras do tempo**
 
 
 - *its name was Penelope.* Judy Malloy.1993
@@ -28,7 +28,7 @@ tags: [collection]
 - *Wordtoys.* Belén Gache. 2006
 
 
-###**Letter-Image-Movement-Sound / Letra-imagen-movimiento-sonido / Letra-imagem­-movimento­-som**
+### **Letter-Image-Movement-Sound / Letra-imagen-movimiento-sonido / Letra-imagem­-movimento­-som**
 
 
 - *Anipoemas.* Ana María Uribe. 1997-2002
@@ -38,7 +38,7 @@ tags: [collection]
 - *Taroko Gorge.* Nick Montfort. 2009
 
 
-###**Page-Screen-Page / Página-Pantalla-Página / Página­-tela-­página
+### **Page-Screen-Page / Página-Pantalla-Página / Página­-tela-­página
 
 - *Between Page and Screen.* Amaranth Borsuk and Brad Bouse. 2012
 - *O Livro depois do Livro / The Book After the Book.* Giselle Beiguelman. 1999
@@ -48,10 +48,10 @@ tags: [collection]
 
 
 
-##Print
+## Print
 
 
-###**The folds of time / Los pliegues del tiempo / As dobras do tempo**
+### **The folds of time / Los pliegues del tiempo / As dobras do tempo**
 
 
 - García Márquez, Gabriel. *Cien años de soledad.* 3a ed. Buenos Aires: Editorial Sudamericana, 1967.
@@ -65,7 +65,7 @@ tags: [collection]
 - Roh, Franz. *Realismo mágico post expresionismo: problemas de la pintura europea más reciente.* Biblioteca de la Revista de Occidente. Madrid: Revista de Occidente, 1927.
 
 
-###**Instructions for reading / Instrucciones para leer / Instruções para ler**
+### **Instructions for reading / Instrucciones para leer / Instruções para ler**
 
 
 - Cortázar, Julio. *Rayuela.* Buenos Aires: Editorial Sudamericana, c1963.ile reprint.
@@ -76,7 +76,7 @@ tags: [collection]
 - Paz, Octavio. *The Labyrinth of Solitude: Life and Thought in Mexico.* New York: Grove Press, 1962.
 
 
-###**Sign and letter / Seña y letra / Signo e letra**
+### **Sign and letter / Seña y letra / Signo e letra**
 
 
 - Brossa, Joan. *Poemes objecte.* Col·lecció Gart; 1. Barcelona: Servicios Editoriales, 1978.
@@ -88,7 +88,7 @@ tags: [collection]
 - “Poema” by Joan Brossa (1978)
 
 
-###**Printed codes / Códigos impresos / Códigos impressos**
+### **Printed codes / Códigos impresos / Códigos impressos**
 
 
 - Carrión, Jorge. *Crónica de viaje.* 2a. ed. ampliada y revisada. Badajoz: Aristas Martínez, 2014.
@@ -104,7 +104,7 @@ tags: [collection]
 - Scala, Eduardo. *S de amor: 32 poe + sinfín.* Madrid: Ediciones de la Imprenta, 2005.
 
 
-###**Spelling out movement / Deletrear el movimiento / Soletrando o movimento**
+### **Spelling out movement / Deletrear el movimiento / Soletrando o movimento**
 
 
 - Huidobro, Vicente. *Canciones en la noche.* Santiago de Chile: Imprenta y encuadernación Chile, 1913.
@@ -114,7 +114,7 @@ tags: [collection]
 - Alomar, Gabriel. *El futurisme.* Barcelona: L'Avenç, 1905.
 
 
-###**The alphabet as technology / El alfabeto como tecnología / O alfabeto como tecnologia**
+### **The alphabet as technology / El alfabeto como tecnología / O alfabeto como tecnologia**
 
 
 - *Grecia: revista de literatura.* No. 3 de La Colección Facsímil del Centro Cultural Generación del 27. Málaga, Spain: Centro Cultural de la Generación del 27, 1998. Facsimile reprint of original published in Sevilla from 1918-May 1, 1920, and in Madrid from June 1, 1920-November 1, 1920.
