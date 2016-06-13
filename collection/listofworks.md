@@ -6,7 +6,7 @@ tags: [collection]
 <a class="btn zoombtn" href="{{site.url}}/collection/">
 <i class="fa fa-chevron-left">
 </a>
-<<a class="btn zoombtn" href="{{site.url}}">
+<a class="btn zoombtn" href="{{site.url}}">
                         <i class="fa fa-home"></i>
 </a>
 
