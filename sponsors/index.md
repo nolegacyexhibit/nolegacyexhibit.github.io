@@ -23,7 +23,10 @@ Semar Prom, *Fabrication Shop at College of Environmental Design*
 
 Chris K. Palmer, *Digital Fabrication Lab at College of Environmental Design*
 
-With generous support from:
+Lonny Meyers, *Photographer*
+
+**With generous support from:**
+
 The Hellman Foundation,
 The University Library,
 Berkeley Center for New Media,
@@ -38,4 +41,4 @@ Center for Latin American Studies,
 Berkeley Institute for Data Science,
 Institute for Digital Research in the Humanities, University of Kansas
 
-And many, many thanks to Jay Boncodin, JJ Mansalay, Willgine Khusyonym, Jon Garrett, Scott Peterson, Emily Ramos, Martha Little, Carlos Delgado, David Faulds, Theresa Salazar, Christine Hun, Keith Budner, and Johnathan Vaknin in the Library, as well as Miloh Alexander, Graham Parker Ansell, Paul Mirocha, Stephanie Shipman of College of Environmental Design
+And many, many thanks to Jay Boncodin, JJ Mansalay, Willgine Khusyonym, Jon Garrett, Scott Peterson, Emily Ramos, Martha Little, Carlos Delgado, David Faulds, Theresa Salazar, Christine Hun, Keith Budner, and Johnathan Vaknin in the Library, as well as Miloh Alexander, Graham Parker Ansell, Paul Mirocha, Stephanie Shipman of College of Environmental Design.
