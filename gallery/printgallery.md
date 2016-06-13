@@ -6,7 +6,7 @@ tags: [images]
 
 ---
 
-<h2>Print Collection</h2>
+
 <figure class="half">
 	<a class="image-popup" href="/assets/img/gallery/Print_9499.jpg"><img src="/assets/img/gallery/Print_9499.jpg"></a>
 	<a class="image-popup" href="/assets/img/gallery/Print_9520.jpg"><img src="/assets/img/gallery/Print_9520.jpg"></a>
