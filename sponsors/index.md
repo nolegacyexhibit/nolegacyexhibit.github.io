@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sponsors
-tags: [sponsors]
+title: Acknowledgements
+tags: [acknowledgements]
 
 ---
 
