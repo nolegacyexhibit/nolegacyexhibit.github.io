@@ -1,4 +1,8 @@
-#Full List of Works
+---
+layout: page
+title: List of Works
+tags: [collection]
+---
 
 
 ##Digital
