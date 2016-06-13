@@ -5,7 +5,7 @@ tags: [sponsors]
 
 ---
 
-**No Legacy** would not have been possible with the crucial support of many peole. Special thanks go to:
+**No Legacy** would not have been possible without the crucial support of many peole. Special thanks go to:
 
 Greg Niemeyer, *Director, Berkeley Center for New Media*
 
