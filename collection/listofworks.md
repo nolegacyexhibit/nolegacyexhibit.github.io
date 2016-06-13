@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: List of Works
 tags: [collection]
 ---
