@@ -29,7 +29,7 @@ tags: [collection]
 - *Wordtoys.* Belén Gache. 2006
 
 
-### **Letter-Image-Movement-Sound / Letra-imagen-movimiento-sonido / Letra-imagem­-movimento­-som**
+### **Letter-image-movement-sound / Letra-imagen-movimiento-sonido / Letra-imagem­-movimento­-som**
 
 
 - *Anipoemas.* Ana María Uribe. 1997-2002
@@ -39,7 +39,7 @@ tags: [collection]
 - *Taroko Gorge.* Nick Montfort. 2009
 
 
-### **Page-Screen-Page / Página-Pantalla-Página / Página­-tela-­página**
+### **Page-screen-page / Página-pantalla-página / Página­-tela-­página**
 
 - *Between Page and Screen.* Amaranth Borsuk and Brad Bouse. 2012
 - *O Livro depois do Livro / The Book After the Book.* Giselle Beiguelman. 1999
