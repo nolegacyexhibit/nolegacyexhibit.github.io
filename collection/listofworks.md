@@ -5,12 +5,12 @@ tags: [collection]
 ---
 
 
-##Digital
+## Digital
 --
 
 
-**The Endless Labyrinth / El laberinto infinito /  O labirinto infinito**
----
+### **The Endless Labyrinth / El laberinto infinito /  O labirinto infinito**
+
 
 
 - *The Aleph: Infinite Wonder / Infinite Pity.* David Hirmes. 2013  
