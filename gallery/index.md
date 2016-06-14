@@ -6,9 +6,10 @@ tags: [images]
 
 ---
 
-<h5 align="center"><a href="http://nolegacyexhibit.github.io/gallery/printgallery">Print Collection Photos</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://nolegacyexhibit.github.io/gallery/digitalgallery">Digital Collection Photos</a></h5>
+<h4 align="center"><a href="http://nolegacyexhibit.github.io/gallery/printgallery">More Print Collection Photos</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://nolegacyexhibit.github.io/gallery/digitalgallery">More Digital Collection Photos</a></h4>
 
-<h2>Bernice Layne Brown Gallery, Doe Library, UC Berkeley</h2>
+<h3>Bernice Layne Brown Gallery, Doe Library, UC Berkeley</h3>
+<h3>March 11, 2016-September 2, 2016</h3>
 
 <figure class="half">
 
