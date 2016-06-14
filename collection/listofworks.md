@@ -24,7 +24,7 @@ tags: [collection]
 
 
 - *its name was Penelope.* Judy Malloy. 1993
-- *Tierra de extracción.* Doménico Chiappe and Andreas Meier. 2007 (2000)
+- *Tierra de extracción.* (2000). Doménico Chiappe and Andreas Meier. 2007 
 - *Etheric Ocean.* J.R. Carpenter. 2014
 - *Wordtoys.* Belén Gache. 2006
 
@@ -44,7 +44,7 @@ tags: [collection]
 - *Between Page and Screen.* Amaranth Borsuk and Brad Bouse. 2012
 - *O Livro depois do Livro / The Book After the Book.* Giselle Beiguelman. 1999
 - *El 27/ The 27th.* Eugenio Tiselli. 2014
-- *Blanco, 1966.* Octavio Paz. Ed. Conaculta. 2012
+- *Blanco* (1966). Octavio Paz. Ed. Conaculta. 2012
 - *Crónica de Viaje.* Jorge Carrión. Ed. Aristas Martínez, 2014
 
 
@@ -56,7 +56,7 @@ tags: [collection]
 
 
 - García Márquez, Gabriel. *Cien años de soledad.* 3a ed. Buenos Aires: Editorial Sudamericana, 1967.
-- García Márquez, Gabriel. *Cien años de soledad.* Edición conmemorativa. Bogotá: Grupo Editorial Norma,
+- García Márquez, Gabriel. *Cien años de soledad.* Edición conmemorativa. Bogotá: Grupo Editorial Norma, 2007.
 - Carpentier, Alejo. *Viaje a la semilla.* Tafalla: Txalaparta, 2003.
 - Carpentier, Alejo. *Dos novelas.* La Habana: Editorial Letras Cubanas, 1979.
 - Carpentier, Alejo. *Los pasos perdidos.* La Habana: Organización Continental de los Festivales del Libro, 1960.
@@ -94,9 +94,9 @@ tags: [collection]
 
 - Carrión, Jorge. *Crónica de viaje.* 2a. ed. ampliada y revisada. Badajoz: Aristas Martínez, 2014.
 - Carrión, Jorge. *El juguete rabioso: proyecto completo.* Barcelona: Laia Libros, 2012.
-- Carrión, Ulises. *Poesías. México, D.F: Taller Ditoria: J.J. Agius: M-H Libros de Artista, 2007.
-- Danielewski, Mark Z., Zampanò, Johnny Truant. *House of Leaves.* 2nd ed. New York: Pantheon Books, 2000.
-- Danielewski, Mark Z., Zampanò, Johnny Truant, and Javier Calvo. *La casa de hojas.* Barcelona: Alpha Decay, 2014.
+- Carrión, Ulises. *Poesías.* México, D.F: Taller Ditoria: J.J. Agius: M-H Libros de Artista, 2007.
+- Danielewski, Mark Z. *House of Leaves.* 2nd ed. New York: Pantheon Books, 2000.
+- Danielewski, Mark Z. *La casa de hojas.* Trad. by Javier Calvo. Barcelona: Alpha Decay, 2014.
 - Plascencia, Salvador. *The People of Paper.* San Francisco: McSwseeney’s Books, 2005.
 - Plascencia, Salvador, and Silvia Alemany. *La gente de papel.* Barcelona: Mondadori, 2007.
 - Hall, Steven. *The Raw Shark Texts.* 1st American ed. Edinburgh; New York: Canongate, 2007.
@@ -135,6 +135,6 @@ tags: [collection]
 
 
 - Borges, Jorge Luis, Nestor Ibarra, and Raymond Gid. *La bibliothèque de babel.* Montanthiaume: Raymond Gid, 1963.
-- Borges, Jorge Luis. *El libro de arena.* Buenos Aires: Emecé Editores, 1975.-
+- Borges, Jorge Luis. *El libro de arena.* Buenos Aires: Emecé Editores, 1975.
 - Borges, Jorge Luis. *El Jardín de senderos que se bifurcan.* Buenos Aires: Sur, 1942.
 - Borges, Jorge Luis. *El Aleph.* Ilustraciones de José Hernández; y un homenaje narrativo de Carlos Fuentes. Barcelona: Galaxia Gutenberg: Círculo de Lectores, 1999.
