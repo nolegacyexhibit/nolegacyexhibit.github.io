@@ -37,4 +37,4 @@ As obras incluídas estão distribuídas por quatro secções. A primeira foca-s
 
 A coleção de **NL\|\|LE** não pode existir sem computadores. Todos os objetos digitais estão condicionados pela capacidade estrutural e material dos dispositivos nos quais foram criados, distribuídos e consumidos. A leitura destas obras precisa da interação entre o utilizador e a máquina. O público de No Legacy deverá jogar com as peças. Em **NL\|\|LE**, ler converte-se numa experiência de corpo inteiro.
 
-Para mais informações sobre a proposta curatorial, visite [a lista completa das obras.](http://nolegacyexhibit.github.io/collection/listofworks) ou as seções [Print Collection](http://nolegacyexhibit.github.io/collection/print/) e [Digital Collection](http://nolegacyexhibit.github.io/collection/digital/).
+Para mais informações sobre a proposta curatorial, visite [a lista completa das obras](http://nolegacyexhibit.github.io/collection/listofworks) ou as seções [Print Collection](http://nolegacyexhibit.github.io/collection/print/) e [Digital Collection](http://nolegacyexhibit.github.io/collection/digital/).
