@@ -14,37 +14,37 @@ tags: [collection]
 
 
 
-- *The Aleph: Infinite Wonder / Infinite Pity.* David Hirmes. 2013  
-- *Globebop.* Jim Andrews. 2015
-- *Victory Garden.* Stuart Moulthrop. 1991
+- *The Aleph: Infinite Wonder / Infinite Pity.* David Hirmes, 2013  
+- *Globebop.* Jim Andrews, 2015
+- *Victory Garden.* Stuart Moulthrop, 1991
 - *Babel’s Monkeys.* Luis Sarmento, 2012
 
 
 ### **The folds of time / Los pliegues del tiempo / As dobras do tempo**
 
 
-- *its name was Penelope.* Judy Malloy. 1993
-- *Tierra de extracción.* (2000). Doménico Chiappe and Andreas Meier. 2007 
-- *Etheric Ocean.* J.R. Carpenter. 2014
-- *Wordtoys.* Belén Gache. 2006
+- *its name was Penelope.* Judy Malloy, 1993
+- *Tierra de extracción.* (2000). Doménico Chiappe and Andreas Meier, 2007 
+- *Etheric Ocean.* J.R. Carpenter, 2014
+- *Wordtoys.* Belén Gache, 2006
 
 
 ### **Letter-image-movement-sound / Letra-imagen-movimiento-sonido / Letra-imagem­-movimento­-som**
 
 
-- *Anipoemas.* Ana María Uribe. 1997-2002
-- *Concretoons.* Benjamín Moreno. 2010
-- *abcdefghijklmnopqrstuvwxyz.* Jörg Piringer. 2010
-- *Poemas no meio do caminho.* Rui Torres. 2008
-- *Taroko Gorge.* Nick Montfort. 2009
+- *Anipoemas.* Ana María Uribe, 1997-2002
+- *Concretoons.* Benjamín Moreno, 2010
+- *abcdefghijklmnopqrstuvwxyz.* Jörg Piringer, 2010
+- *Poemas no meio do caminho.* Rui Torres, 2008
+- *Taroko Gorge.* Nick Montfort, 2009
 
 
 ### **Page-screen-page / Página-pantalla-página / Página­-tela-­página**
 
-- *Between Page and Screen.* Amaranth Borsuk and Brad Bouse. 2012
-- *O Livro depois do Livro / The Book After the Book.* Giselle Beiguelman. 1999
-- *El 27/ The 27th.* Eugenio Tiselli. 2014
-- *Blanco* (1966). Octavio Paz. Ed. Conaculta. 2012
+- *Between Page and Screen.* Amaranth Borsuk and Brad Bouse, 2012
+- *O Livro depois do Livro / The Book After the Book.* Giselle Beiguelman, 1999
+- *El 27/ The 27th.* Eugenio Tiselli, 2014
+- *Blanco* (1966). Octavio Paz. Ed. Conaculta, 2012
 - *Crónica de Viaje.* Jorge Carrión. Ed. Aristas Martínez, 2014
 
 
