@@ -56,11 +56,11 @@ Vayan de la computadora al libro y vuelvan a empezar.
 
 ---
 
-<a id="PT"/>**[PT]** Nesta secção o código imprime­se e a página devém digital.
+<a id="PT"/>**[PT]** Nesta secção o código imprime-se e a página devém digital.
 
-Estas peças revelam uma relação não­linear entre o impresso e o digital, esbatendo os limites entre ambos e descobrindo modos de os tornar complementares. O resultado é surpreendente, divertido e, algumas vezes, quase impossível de acreditar.
+Estas peças revelam uma relação não-linear entre o impresso e o digital, esbatendo os limites entre ambos e descobrindo modos de os tornar complementares. O resultado é surpreendente, divertido e, algumas vezes, quase impossível de acreditar.
 
-*O livro depois do livro* de Giselle Beiguelman e *Between Page and Screen* de Amaranth Borsuk y Brad Bouse sublinham o vínculo continuo entre o impresso e o digital. *The 27th/El 27* de Eugenio Tiselli flui do impresso à Web e de novo ao papel, marcando a mudança radical nas condições materiais do mundo. *Crónica de viaje* de Jorge Carrión e *Tree of Codes* de Jonathan Safran Foer marcam o impacto que a imaginação digital teve na fabricação de livros. Invertendo o processo, a edição em iPad de *Blanco* de Octavio Paz imbui de poética impressa o aparato digital.
+*O livro depois do livro* de Giselle Beiguelman e *Between Page and Screen* de Amaranth Borsuk y Brad Bouse sublinham o vínculo contínuo entre o impresso e o digital. *The 27th/El 27* de Eugenio Tiselli flui do impresso à Web e de novo ao papel, marcando a mudança radical nas condições materiais do mundo. *Crónica de viaje* de Jorge Carrión e *Tree of Codes* de Jonathan Safran Foer marcam o impacto que a imaginação digital teve na fabricação de livros. Invertendo o processo, a edição em iPad de *Blanco* de Octavio Paz imbui de poética impressa o aparato digital.
 
 Todas estas peças, ao defenderem o lugar do códex impresso no mundo digital,
 
