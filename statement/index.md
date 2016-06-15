@@ -36,7 +36,7 @@ A & É
 
 ---
 
-<a id="PT"/>**[PT] No Legacy \|\| Literatura electrónica (NL\|\|LE)** apresenta uma coleção de obras de literatura electrónica em espanhol, português, catalão e inglês junto a obras impressas das vanguardas do Séc. XX e a experimentação pós-digital da contemporaneidade.
+<a id="PT"/>**[PT] No Legacy \|\| Literatura electrónica (NL\|\|LE)** apresenta uma coleção de obras de literatura electrónica em espanhol, português, catalão e inglês junto a obras impressas das vanguardas do Séc. XX e à experimentação pós-digital da contemporaneidade.
 
 A exposição procura mostrar o uso de tecnologias computacionais e digitais na produção literária de um mundo experienciado como interligado, assim como a sua relação material com abordagens tecnológicas à literatura que se encontram em movimentos do século passado, tais como o futurismo, o concretismo, o criacionismo, o estridentismo, ou o realismo fantástico. Ao juntar uma série de objetos impressos e digitais no mesmo espaço concreto da galeria, **NL\|\|LE** impõe uma perspectiva arqueológica ao estudo literário que, segundo as diretrizes de Siegfried Zielinski, procura criar uma zona de ação e ensaio que liga o que está separado. Assim, com **NL\|\|LE** questionamos relações literárias pouco convencionais como aquelas que tratam e manipulam a obra literária como se de um objeto se tratasse.
 
