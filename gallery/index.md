@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "On-Site Gallery"
+title: "Exhibition Images"
 
 tags: [images]
 
