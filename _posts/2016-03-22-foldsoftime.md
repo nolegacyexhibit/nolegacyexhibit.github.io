@@ -21,13 +21,6 @@ These works make us rethink sequential time. Effects don’t always seem to have
 
 Start at the end, or in the middle. Start more than one time.
 
-**Works:**
-
-
-- *its name was Penelope*. Judy Malloy. 1993
-- *Tierra de extracción*. Doménico Chiappe and Andreas Meier. (2000) 2007
-- *Etheric Ocean*. J.R. Carpenter. 2014
-- *Wordtoys*. Belén Gache. 2006
 
 ---
 
@@ -41,33 +34,17 @@ Todas estas obras nos hacen repensar el tiempo secuencial. Los eventos se nos pr
 
 Comiencen a leer por el final o por la mitad del relato. Vuelvan a empezar.
 
-**Obras:**
-
-
-- *its name was Penelope*. Judy Malloy. 1993
-- *Tierra de extracción*. Doménico Chiappe and Andreas Meier. (2000) 2007
-- *Etheric Ocean*. J.R. Carpenter. 2014
-- *Wordtoys*. Belén Gache. 2006
-
 ---
 
 <a id="PT"/>**[PT]** Nesta secção não há nem passado, nem presente, nem futuro.
 
-Nestas obras fundem­se diferentes temporalidades. O tempo move­se em círculos, em paralelo ou de trás para a frente. As peças apresentadas questionam as noções de causalidade e de sequencialidade ao mesmo tempo que revelam novas ligações entre eventos e objetos.
+Nestas obras fundem-se diferentes temporalidades. O tempo move-se em círculos, em paralelo ou de trás para a frente. As peças apresentadas questionam as noções de causalidade e de sequencialidade ao mesmo tempo que revelam novas ligações entre eventos e objetos.
 
 *Etheric Ocean* de J.R. Carpenter joga com a simultaneidade de diferentes camadas poéticas, sonoras e visuais. Da mesma forma que *Viaje a la semilla* de Alejo Carpentier nos fazia retroceder no tempo, a obra multimédia *Tierra de extracción* de Doménico Chiappe propõe a ruptura da sequencialidade temporal. Os poemas flash “Poemas de agua” e “Los sueños” incluídos nos *Wordtoys* de Belén Gache orbitam um tempo circular infinito, tal como os *Cem Anos de Solidão* de Gabriel García Márquez. *its name was Penelope* de Judy Malloy coleciona momentos visuais num único album hipertextual.
 
-Todas estas obras nos fazem repensar o tempo sequencial. Os eventos apresentam­se­nos sem causa. A história não é linear, a forma como se a conta é o importante.
+Todas estas obras nos fazem repensar o tempo sequencial. Os eventos apresentam-se-nos sem causa. A história não é linear, a forma como se a conta é o importante.
 
 Comecem a ler pelo fim ou pela metade. Recomecem.
-
-**Obras:**
-
-
-- *its name was Penelope*. Judy Malloy. 1993
-- *Tierra de extracción*. Doménico Chiappe and Andreas Meier. (2000) 2007
-- *Etheric Ocean*. J.R. Carpenter. 2014
-- *Wordtoys*. Belén Gache. 2006
 
 <br/>
 ![Etheric Ocean](/assets/img/etheric_ocean.jpg "J.R. Carpenter, Etheric Ocean")
