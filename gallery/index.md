@@ -8,8 +8,8 @@ tags: [images]
 
 <h4 align="center"><a href="http://nolegacyexhibit.github.io/gallery/printgallery">More Print Collection Photos</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://nolegacyexhibit.github.io/gallery/digitalgallery">More Digital Collection Photos</a></h4>
 
-<h5>On exhibit at the Bernice Layne Brown Gallery, Doe Library, UC Berkeley</h5>
-<h5>March 11, 2016-September 2, 2016</h5>
+**On exhibit at the Bernice Layne Brown Gallery, Doe Library, UC Berkeley**
+**March 11, 2016-September 2, 2016**
 
 <figure class="half">
 
