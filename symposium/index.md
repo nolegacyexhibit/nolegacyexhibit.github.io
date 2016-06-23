@@ -4,7 +4,7 @@ title: Symposium
 tags: [symposium]
 
 ---
-<h4>No Legacy Opening Symposium</h4>
+<h4>No Legacy \|\| Opening Symposium</h4>
 
 ![Flyer](/assets/img/e-LIT_flyer.png "Symposium Flyer")
 
