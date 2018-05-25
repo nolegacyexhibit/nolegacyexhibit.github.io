@@ -90,7 +90,7 @@
 				</ul>
 			</li>
 			{% for link in site.data.navigation %}
-		    {% if link.url contains 'http' %}
+		    {% if link.url contains 'https' %}
 		        {% assign domain = '' %}
 		        {% else %}
 		        {% assign domain = site.url %}
