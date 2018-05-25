@@ -6,7 +6,7 @@ tags: [images]
 
 ---
 
-<h4 align="center"><a href="http://nolegacyexhibit.github.io/gallery/printgallery">More Print Collection Photos</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://nolegacyexhibit.github.io/gallery/digitalgallery">More Digital Collection Photos</a></h4>
+<h4 align="center"><a href="https://nolegacyexhibit.github.io/gallery/printgallery">More Print Collection Photos</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://nolegacyexhibit.github.io/gallery/digitalgallery">More Digital Collection Photos</a></h4>
 
 **On exhibit at the Bernice Layne Brown Gallery, Doe Library, UC Berkeley**
 
